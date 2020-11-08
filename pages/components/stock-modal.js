@@ -4,7 +4,7 @@ import NumberFormat from "react-number-format";
 import { toast } from "react-toastify";
 import axios from "axios";
 
-import { stockListState } from "../store/atoms";
+import { stockListState } from "../../store/atoms";
 
 const StockModal = () => {
   const [form, setForm] = useState({

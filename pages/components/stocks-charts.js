@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useRecoilValue } from "recoil";
 import { ResponsiveContainer, PieChart, Pie, Sector } from "recharts";
 
-import { stockListFullState } from "../store/selectors";
+import { stockListFullState } from "../../store/selectors";
 
 const renderActiveShape = (props) => {
   const RADIAN = Math.PI / 180;

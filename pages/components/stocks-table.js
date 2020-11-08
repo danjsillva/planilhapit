@@ -4,8 +4,8 @@ import { FiXCircle } from "react-icons/fi";
 import NumberFormat from "react-number-format";
 import classNames from "classnames";
 
-import { stockListState } from "../store/atoms";
-import { stockListFullState } from "../store/selectors";
+import { stockListState } from "../../store/atoms";
+import { stockListFullState } from "../../store/selectors";
 
 const StocksTable = () => {
   const [stocks, setStocks] = useRecoilState(stockListState);

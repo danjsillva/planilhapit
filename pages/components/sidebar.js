@@ -7,11 +7,11 @@ import { parse } from "papaparse";
 
 import DevelopedBy from "./developed-by";
 
-import { balanceState, stockListState } from "../store/atoms";
+import { balanceState, stockListState } from "../../store/atoms";
 import {
   stockListTotalState,
   stockListIdealTotalState,
-} from "../store/selectors";
+} from "../../store/selectors";
 
 const Sidebar = () => {
   const [balance, setBalance] = useRecoilState(balanceState);

@@ -8,7 +8,7 @@ import StocksTable from "./components/stocks-table";
 import StocksCharts from "./components/stocks-charts";
 import StockModal from "./components/stock-modal";
 
-import { stockListState } from "./store/atoms";
+import { stockListState } from "../store/atoms";
 
 const Stocks = () => {
   const [tabIndex, setTabIndex] = useState(0);
