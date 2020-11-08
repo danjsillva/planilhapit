@@ -1,0 +1,61 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css);
+@import url(https://fonts.googleapis.com/css2?family=Exo+2&display=swap);
+
+html {
+  font-family: "Exo 2", sans-serif;
+  font-size: 0.875rem;
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+* {
+  outline: none;
+  box-shadow: none !important;
+}
+
+label {
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+}
+
+.modal-dialog {
+  margin-top: 100px;
+}
+
+.toast-container {
+  font-family: "Exo 2", sans-serif;
+  color: white;
+  min-height: 2.5rem;
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+}
+
+.Toastify__toast--default {
+  background-color: #343a40;
+}
+
+.Toastify__toast--success {
+  background-color: #28a745;
+}
+
+.Toastify__toast--error {
+  background-color: #dc3545;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.form-control-file {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
