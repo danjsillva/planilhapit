@@ -2,11 +2,11 @@ import React, { useState } from "react";
 import { useRecoilState } from "recoil";
 import classNames from "classnames";
 
-import Sidebar from "./components/Sidebar";
-import EmptyState from "./components/EmptyState";
-import StocksTable from "./components/StocksTable";
-import StocksCharts from "./components/StocksCharts";
-import StockModal from "./components/StockModal";
+import Sidebar from "./components/sidebar";
+import EmptyState from "./components/empty-state";
+import StocksTable from "./components/stocks-table";
+import StocksCharts from "./components/stocks-charts";
+import StockModal from "./components/stock-modal";
 
 import { stockListState } from "./store/atoms";
 

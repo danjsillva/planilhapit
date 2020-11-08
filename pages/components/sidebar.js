@@ -5,7 +5,7 @@ import { toast } from "react-toastify";
 import { CSVLink } from "react-csv";
 import { parse } from "papaparse";
 
-import DevelopedBy from "./DevelopedBy";
+import DevelopedBy from "./developed-by";
 
 import { balanceState, stockListState } from "../store/atoms";
 import {
