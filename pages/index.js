@@ -1,65 +1,43 @@
-import Head from "next/head";
-import styles from "../styles/Home.module.css";
+import React from "react";
+import Image from "next/image";
 
-export default function Home() {
+import DevelopedBy from "./components/developed-by";
+
+const Welcome = () => {
   return (
-    <div className={styles.container}>
-      <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    <div
+      className="container d-flex align-items-center"
+      style={{ height: "100vh" }}
+    >
+      <div className="row">
+        <div className="col-4 pt-5">
+          <h1>
+            Bem vindo à <b>Planilha Pit</b>!
+          </h1>
+          <h4>A ferramenta que vai te ajudar a rebalancear sua carteira</h4>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+          <p className="text-muted py-4">
+            Este é o resultado de uma ideia que nasceu com o propósito de ser
+            uma ferramenta para uso pessoal, mas agora ficou claro que pode
+            ajudar outras pessoas. Enfim, espero que curtam!
+          </p>
 
-        <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+          <div className="">
+            <a href="/stocks" className="btn btn-dark px-5">
+              Ir para a planilha
+            </a>
+          </div>
 
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+          <div className="mt-5">
+            <DevelopedBy />
+          </div>
         </div>
-      </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{" "}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
+        <div className="col">
+          <Image src="/assets/screen-1.png" alt="welcome" layout="fill" />
+        </div>
+      </div>
     </div>
   );
-}
+};
+
+export default Welcome;
