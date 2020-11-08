@@ -18,11 +18,8 @@ const StockModal = () => {
 
   const handleBlurSymbol = async (event) => {
     try {
-      const response = (
-        await axios.get(
-          `https://blxskdikk0.execute-api.sa-east-1.amazonaws.com/dev/quotation?symbol=${form.symbol}`
-        )
-      ).data;
+      const response = (await axios.get(`/api/quotation?symbol=${form.symbol}`))
+        .data;
 
       if (!response[form.symbol]) {
         return;
@@ -53,7 +50,7 @@ const StockModal = () => {
   };
 
   return (
-    <div className="modal" id="stockModal">
+    <div className="moda" id="stockModal">
       <div className="modal-dialog modal-lg">
         <div className="modal-content">
           <div className="modal-header">
@@ -152,6 +149,13 @@ const StockModal = () => {
               type="button"
               className="btn btn-dark"
               onClick={handleSubmitForm}
+              disabled={
+                !form.symbol ||
+                !form.name ||
+                !form.price ||
+                !form.grade ||
+                !form.volume
+              }
             >
               Salvar alterações
             </button>
