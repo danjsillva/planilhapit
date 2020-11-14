@@ -2,13 +2,19 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="card card-body m-3">
-      <div className="row">
-        <div className="col-6 col-lg-12">
-
-        </div>
-        <div className="col-6 col-lg-12 mt-3">
-
+    <header className="bg-dark text-light p-3">
+      <div className="container">
+        <div className="row">
+          <div className="col-6">
+            <a
+              href="/"
+              className="h4 text-light"
+              style={{ textDecoration: "none" }}
+            >
+              <b>Planilha Pit</b>
+            </a>
+          </div>
+          <div className="col-6 text-right"></div>
         </div>
       </div>
     </header>

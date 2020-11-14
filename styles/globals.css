@@ -1,13 +1,10 @@
 @import url("https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Exo+2&display=swap");
 
-html {
-  font-family: "Exo 2", sans-serif;
-  font-size: 0.875rem;
-}
-
 body {
-  background-color: #f0f0f0;
+  font-family: "Exo 2", sans-serif !important;
+  font-size: 0.875rem;
+  background-color: #fafafa;
 }
 
 * {

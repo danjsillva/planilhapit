@@ -125,7 +125,7 @@ const StockModal = () => {
           </div>
         </div>
 
-        <button
+        {/* <button
           type="submit"
           className="btn btn-dark mt-3 "
           disabled={
@@ -137,7 +137,7 @@ const StockModal = () => {
           }
         >
           Salvar alterações
-        </button>
+        </button> */}
       </form>
     </div>
   );

@@ -3,6 +3,8 @@ import { RecoilRoot } from "recoil";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
+import Header from "./components/header";
+
 import "../styles/globals.css";
 
 const MyApp = ({ Component, pageProps }) => {
@@ -15,6 +17,8 @@ const MyApp = ({ Component, pageProps }) => {
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
         ></script>
       </Head>
+
+      <Header />
 
       <Component {...pageProps} />
 

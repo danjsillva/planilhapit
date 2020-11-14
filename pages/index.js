@@ -7,9 +7,9 @@ const Welcome = () => {
   return (
     <div
       className="container d-flex align-items-center"
-      style={{ height: "100vh" }}
+      style={{ height: "80vh" }}
     >
-      <div className="row">
+      <div className="d-flex">
         <div className="col-4 pt-5">
           <h1>
             Bem vindo à <b>Planilha Pit</b>!
