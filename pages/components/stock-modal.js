@@ -7,6 +7,7 @@ import axios from "axios";
 import { stockListState } from "../../store/atoms";
 
 const StockModal = () => {
+  const [formDisabled, setFormDisabled] = useState(false);
   const [form, setForm] = useState({
     symbol: "",
     name: "",
@@ -18,18 +19,26 @@ const StockModal = () => {
 
   const handleBlurSymbol = async (event) => {
     try {
+      setFormDisabled(true);
+
       const response = (await axios.get(`/api/quotation?symbol=${form.symbol}`))
         .data;
 
-      if (!response[form.symbol]) {
-        return;
-      }
+      setFormDisabled(false);
 
-      setForm({
-        ...form,
-        name: response[form.symbol].name,
-        price: response[form.symbol].price,
-      });
+      if (response[form.symbol]) {
+        setForm({
+          ...form,
+          name: response[form.symbol].name,
+          price: response[form.symbol].price,
+        });
+      } else {
+        setForm({
+          ...form,
+          name: "",
+          price: 0,
+        });
+      }
     } catch (error) {
       console.log(error);
     }
@@ -73,10 +82,12 @@ const StockModal = () => {
                     }
                     onBlur={handleBlurSymbol}
                     className="form-control"
+                    disabled={formDisabled}
                   />
                   <div className="form-text">Código do ativo. Ex.: PETR4.</div>
                 </div>
               </div>
+
               <div className="row">
                 <div className="col-6 offset-3 mt-3">
                   <label htmlFor="">Nome</label>
@@ -84,6 +95,7 @@ const StockModal = () => {
                     value={form.name}
                     onChange={(e) => setForm({ ...form, name: e.target.value })}
                     className="form-control"
+                    disabled={formDisabled}
                   />
                   <div className="form-text">
                     Nome da companhia. Ex.: Petróleo Brasileiro S.A. -
@@ -91,6 +103,7 @@ const StockModal = () => {
                   </div>
                 </div>
               </div>
+
               <div className="row">
                 <div className="col-6 offset-3 mt-3">
                   <label htmlFor="">Preço</label>
@@ -107,10 +120,12 @@ const StockModal = () => {
                       setForm({ ...form, price: values.floatValue })
                     }
                     className="form-control"
+                    disabled={formDisabled}
                   />
                   <div className="form-text">Preço atual do ativo.</div>
                 </div>
               </div>
+
               <div className="row">
                 <div className="col-6 offset-3 mt-3">
                   <label htmlFor="">Nota</label>
