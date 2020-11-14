@@ -4,9 +4,7 @@ import { FiList } from "react-icons/fi";
 const EmptyState = () => {
   return (
     <div className="text-center p-5 mt-5">
-      <span className="d-inline-block bg-dark p-3 rounded-circle">
-        <FiList size={32} className="text-light" />
-      </span>
+      <FiList size={48} />
 
       <div className="font-weight-bold mt-3">
         Parece que sua planilha está vazia!
