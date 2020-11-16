@@ -16,16 +16,19 @@ const EmptyState = () => {
         Que tal criar uma conta e sincronizar os seus dados?
       </div>
 
-      <button
-        className="btn btn-dark px-5 mt-5"
-        data-toggle="modal"
-        data-target="#stockModal"
-      >
-        Adicionar meu primeiro ativo
-      </button>
-      {/* <button className="btn btn-link btn-sm btn-block text-dark mt-1 disabled">
-        Criar uma conta
-      </button> */}
+      <div className="d-grid gap-2 col-4 mx-auto mt-5">
+        <button
+          className="btn btn-dark"
+          data-toggle="modal"
+          data-target="#stockModal"
+        >
+          Adicionar meu primeiro ativo
+        </button>
+
+        <button className="btn btn-link btn-sm text-dark">
+          Criar uma conta
+        </button>
+      </div>
     </div>
   );
 };
