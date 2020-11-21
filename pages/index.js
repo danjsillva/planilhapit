@@ -5,12 +5,9 @@ import DevelopedBy from "./components/developed-by";
 
 const Welcome = () => {
   return (
-    <div
-      className="container d-flex align-items-center"
-      style={{ height: "80vh" }}
-    >
-      <div className="d-flex">
-        <div className="col-4 pt-5">
+    <div className="container" style={{ marginTop: "10vh" }}>
+      <div className="row">
+        <div className="col-12 col-lg-3 pt-5">
           <h1>
             Bem vindo à <b>Planilha Pit</b>!
           </h1>
@@ -32,8 +29,14 @@ const Welcome = () => {
             <DevelopedBy />
           </div>
         </div>
-        <div className="col">
-          <Image src="/assets/screen-1.png" alt="welcome" layout="fill" />
+        <div className="col-12 col-lg-9">
+          <Image
+            src="/assets/screen-1.png"
+            alt="welcome"
+            layout="responsive"
+            width="1280"
+            height="840"
+          />
         </div>
       </div>
     </div>
