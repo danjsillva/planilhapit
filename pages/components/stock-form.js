@@ -147,7 +147,7 @@ const StockModal = () => {
 
         <button
           type="submit"
-          className="btn btn-dark m3 "
+          className="btn btn-dark"
           disabled={
             !form.symbol ||
             !form.name ||

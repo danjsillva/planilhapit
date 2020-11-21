@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="bg-dark text-light p-3">
+    <header className="sticky-top bg-dark text-light p-3">
       <div className="container">
         <div className="row">
           <div className="col-6">
