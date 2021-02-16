@@ -7,12 +7,11 @@ import EmptyState from "./components/empty-state";
 import StocksTable from "./components/stocks-table";
 import StocksCharts from "./components/stocks-charts";
 import StockForm from "./components/stock-form";
-import StockModal from "./components/stock-modal";
 
 import { stockListState } from "../store/atoms";
 
 const Stocks = () => {
-  const [showStockForm, setShowStockForm] = useState(false);
+  const [showStockForm, setShowStockForm] = useState(true);
   const [tabIndex, setTabIndex] = useState(0);
   const [stocks] = useRecoilState(stockListState);
 
@@ -52,16 +51,14 @@ const Stocks = () => {
                 Gráfico
               </button>
             </div>
-            <div className="">
+            {/* <div className="">
               <button
                 className="btn btn-dark px-5"
-                data-toggle="modal"
-                data-target="#stockModal"
                 onClick={() => setShowStockForm(!showStockForm)}
               >
                 Adicionar ativo
               </button>
-            </div>
+            </div> */}
           </div>
 
           {showStockForm && <StockForm />}
@@ -75,8 +72,6 @@ const Stocks = () => {
           ) : (
             <EmptyState />
           )}
-
-          {/* <StockModal /> */}
         </div>
       </div>
     </div>

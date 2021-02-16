@@ -64,11 +64,11 @@ const StockModal = () => {
   };
 
   return (
-    <div className="card card-body mt-3">
+    <div className="mt-3">
       <form onSubmit={handleSubmitForm}>
         <div className="row">
           <div className="col-2">
-            <div class="form-floating">
+            <div className="form-floating">
               <input
                 value={form.symbol}
                 onChange={(e) =>
@@ -86,7 +86,7 @@ const StockModal = () => {
           </div>
 
           <div className="col-4">
-            <div class="form-floating">
+            <div className="form-floating">
               <input
                 value={form.name}
                 onChange={(e) => setForm({ ...form, name: e.target.value })}
@@ -98,7 +98,7 @@ const StockModal = () => {
           </div>
 
           <div className="col-2">
-            <div class="form-floating">
+            <div className="form-floating">
               <NumberFormat
                 defaultValue={0}
                 value={form.price}
@@ -119,7 +119,7 @@ const StockModal = () => {
           </div>
 
           <div className="col-2">
-            <div class="form-floating">
+            <div className="form-floating">
               <input
                 type="number"
                 value={form.grade}
@@ -131,7 +131,7 @@ const StockModal = () => {
           </div>
 
           <div className="col-2">
-            <div class="form-floating">
+            <div className="form-floating">
               <input
                 type="number"
                 value={form.volume}
@@ -147,13 +147,13 @@ const StockModal = () => {
 
         <button
           type="submit"
-          className="btn btn-dark"
+          className="btn btn-dark d-none"
           disabled={
             !form.symbol ||
             !form.name ||
             !form.price ||
             !form.grade ||
-            !form.volume
+            form.volume === ""
           }
         >
           Salvar alterações

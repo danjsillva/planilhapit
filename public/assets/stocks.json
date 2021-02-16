@@ -1,0 +1,3414 @@
+[
+  {
+    "id": "AALR3",
+    "shortName": "ALLIAR",
+    "name": "CENTRO DE IMAGEM DIAGNOSTICOS S.A."
+  },
+  { "id": "ABCB3", "shortName": "ABC Brasil", "name": "BANCO ABC BRASIL S/A" },
+  { "id": "ABCB4", "shortName": "ABC Brasil", "name": "BANCO ABC BRASIL S/A" },
+  { "id": "ABEV3", "shortName": "AMBEV S/A", "name": "AMBEV S.A." },
+  { "id": "ABRE3", "shortName": "SOMOS EDUCA", "name": "SOMOS EDUCAÇÃO S.A." },
+  {
+    "id": "ABYA3",
+    "shortName": "ABYARA",
+    "name": "ABYARA PLANEJAMENTO IMOBILIARIO S.A."
+  },
+  {
+    "id": "ACES3",
+    "shortName": "ARCELORMITTAL INOX BRASIL",
+    "name": "ARCELORMITTAL INOX BRASIL S.A."
+  },
+  {
+    "id": "ACES4",
+    "shortName": "ARCELORMITTAL INOX BRASIL",
+    "name": "ARCELORMITTAL INOX BRASIL S.A."
+  },
+  {
+    "id": "ADHM3",
+    "shortName": "ADVANCED-DH",
+    "name": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A."
+  },
+  {
+    "AEDU11": "ANHANGUERA EDUCACIONAL PARTICIPAÇÕES SA",
+    "name": "ANHANGUERA EDUCACIONAL PARTICIPAÇÕES S.A"
+  },
+  {
+    "AEDU3": "ANHANGUERA EDUCACIONAL PARTICIPAÇÕES SA",
+    "name": "ANHANGUERA EDUCACIONAL PARTICIPAÇÕES S.A"
+  },
+  { "id": "AELP3", "shortName": "AES ELPA", "name": "AES ELPA SA" },
+  {
+    "id": "AERI3",
+    "shortName": "AERIS",
+    "name": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S/A"
+  },
+  {
+    "AESL3": "AES SUL DISTRIB. GAÚCHA DE ENERGIA S.A.",
+    "name": "AES SUL DISTRIB. GAÚCHA DE ENERGIA S.A."
+  },
+  {
+    "AESL4": "AES SUL DISTRIB. GAÚCHA DE ENERGIA S.A.",
+    "name": "AES SUL DISTRIB. GAÚCHA DE ENERGIA S.A."
+  },
+  {
+    "id": "AFLT3",
+    "shortName": "AFLUENTE T",
+    "name": "AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A"
+  },
+  {
+    "id": "AFLU3",
+    "shortName": "AFLUENTE",
+    "name": "AFLUENTE GER.E TRANSM.ENERG.ELETR. S.A."
+  },
+  {
+    "id": "AFLU5",
+    "shortName": "AFLUENTE",
+    "name": "AFLUENTE GER.E TRANSM.ENERG.ELETR. S.A."
+  },
+  {
+    "id": "AGEI3",
+    "shortName": "AGRE EMP IMOB",
+    "name": "AGRE EMPREENDIMENTOS IMOBILIÁRIOS S.A."
+  },
+  { "id": "AGEN33", "shortName": "Agrenco", "name": "AGRENCO LTD." },
+  {
+    "id": "AGIN3",
+    "shortName": "Agra Incorp",
+    "name": "AGRA EMPREENDIMENTOS IMOBILIÁRIOS S/A"
+  },
+  {
+    "id": "AGRO3",
+    "shortName": "BRASILAGRO",
+    "name": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS"
+  },
+  {
+    "id": "AHEB3",
+    "shortName": "PARQUE ANHEMBI",
+    "name": "SAO PAULO TURISMO S.A."
+  },
+  {
+    "id": "AHEB5",
+    "shortName": "PARQUE ANHEMBI",
+    "name": "SAO PAULO TURISMO S.A."
+  },
+  {
+    "id": "AHEB6",
+    "shortName": "PARQUE ANHEMBI",
+    "name": "SAO PAULO TURISMO S.A."
+  },
+  {
+    "ALBA3": "DANA-ALBARUS S/A INDÚSTRIA E COMÉRCIO",
+    "name": "DANA-ALBARUS S.A. INDÚSTRIA E COMÉRCIO"
+  },
+  { "id": "ALLL11", "shortName": "RUMO S.A.", "name": "RUMO S.A." },
+  { "id": "ALLL3", "shortName": "RUMO S.A.", "name": "RUMO S.A." },
+  { "id": "ALLL4", "shortName": "RUMO S.A.", "name": "RUMO S.A." },
+  {
+    "id": "ALPA3",
+    "shortName": "ALPARGATAS",
+    "name": "SAO PAULO ALPARGATAS SA"
+  },
+  {
+    "id": "ALPA4",
+    "shortName": "ALPARGATAS",
+    "name": "SAO PAULO ALPARGATAS SA"
+  },
+  {
+    "id": "ALPK3",
+    "shortName": "ESTAPAR",
+    "name": "ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A"
+  },
+  {
+    "id": "ALSC3",
+    "shortName": "ALIANSCE",
+    "name": "ALIANSCE SHOPPING CENTERS S.A."
+  },
+  {
+    "id": "ALSO3",
+    "shortName": "ALIANSCSONAE",
+    "name": "ALIANSCE SONAE SHOPPING CENTERS S.A."
+  },
+  { "id": "ALUP11", "shortName": "ALUPAR", "name": "ALUPAR INVESTIMENTOS S/A" },
+  { "id": "ALUP3", "shortName": "ALUPAR", "name": "ALUPAR INVESTIMENTOS S/A" },
+  { "id": "ALUP4", "shortName": "ALUPAR", "name": "ALUPAR INVESTIMENTOS S/A" },
+  { "id": "AMAR3", "shortName": "LOJAS MARISA", "name": "MARISA LOJAS S.A." },
+  {
+    "id": "AMBP3",
+    "shortName": "AMBIPAR",
+    "name": "AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A"
+  },
+  {
+    "id": "AMBV3",
+    "shortName": "AMBEV",
+    "name": "COMPANHIA DE BEBIDAS DAS AMÉRICAS-AMBEV"
+  },
+  {
+    "id": "AMBV4",
+    "shortName": "AMBEV",
+    "name": "COMPANHIA DE BEBIDAS DAS AMÉRICAS-AMBEV"
+  },
+  { "id": "AMIL3", "shortName": "AMIL", "name": "AMIL PARTICIPAÇÕES S/A" },
+  {
+    "id": "AMPI3",
+    "shortName": "AMPLA INVEST",
+    "name": "AMPLA INVESTIMENTOS E SERVICOS S.A."
+  },
+  { "id": "ANIM3", "shortName": "ANIMA", "name": "GAEC EDUCAÇÃO S.A." },
+  {
+    "id": "AORE3",
+    "shortName": "ADVANCED-DH",
+    "name": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A."
+  },
+  {
+    "id": "APER3",
+    "shortName": "ALPER S.A.",
+    "name": "ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A."
+  },
+  {
+    "id": "APTI4",
+    "shortName": "ALIPERTI",
+    "name": "SIDERURGICA J L ALIPERTI SA"
+  },
+  {
+    "id": "ARCE3",
+    "shortName": "BELGO",
+    "name": "COMPANHIA SIDERÚRGICA BELGO-MINEIRA"
+  },
+  {
+    "id": "ARCZ3",
+    "shortName": "ARACRUZ CELULOSE SA",
+    "name": "ARACRUZ CELULOSE S/A"
+  },
+  {
+    "id": "ARCZ6",
+    "shortName": "ARACRUZ CELULOSE SA",
+    "name": "ARACRUZ CELULOSE S/A"
+  },
+  {
+    "id": "ARLA3",
+    "shortName": "ARTHUR LANGE",
+    "name": "ARTHUR LANGE SA IND E COM"
+  },
+  {
+    "id": "ARLA4",
+    "shortName": "ARTHUR LANGE",
+    "name": "ARTHUR LANGE SA IND E COM"
+  },
+  {
+    "id": "ARPS3",
+    "shortName": "DOUAT CIA TEXTIL",
+    "name": "DOUAT CIA TEXTIL"
+  },
+  {
+    "id": "ARPS4",
+    "shortName": "DOUAT CIA TEXTIL",
+    "name": "DOUAT CIA TEXTIL"
+  },
+  { "id": "ARTE3", "shortName": "KUALA S.A.", "name": "KUALA SA" },
+  { "id": "ARTE4", "shortName": "KUALA S.A.", "name": "KUALA SA" },
+  { "id": "ARTR3", "shortName": "ARTERIS", "name": "ARTERIS S.A." },
+  {
+    "id": "ARZZ3",
+    "shortName": "AREZZO CO",
+    "name": "AREZZO INDÚSTRIA E COMÉRCIO S.A."
+  },
+  {
+    "id": "ASSM3",
+    "shortName": "HOTEIS ELDORADO",
+    "name": "COMPANHIA ELDORADO DE HOTEIS"
+  },
+  {
+    "id": "ASSM4",
+    "shortName": "HOTEIS ELDORADO",
+    "name": "COMPANHIA ELDORADO DE HOTEIS"
+  },
+  {
+    "id": "ASTA4",
+    "shortName": "SANTISTA TÊXTIL S.A.",
+    "name": "SANTISTA TEXTIL SA"
+  },
+  { "id": "ATMP3", "shortName": "ATMASA", "name": "ATMA PARTICIPAÇÕES S.A." },
+  { "id": "ATOM3", "shortName": "ATOMPAR", "name": "ATOM PARTICIPACOES S.A." },
+  { "id": "AURA32", "shortName": "AURA 360", "name": "AURA MINERALS INC." },
+  { "id": "AURA33", "shortName": "AURA 360", "name": "AURA MINERALS INC." },
+  { "id": "AUTM3", "shortName": "AUTOMETAL", "name": "AUTOMETAL S.A." },
+  { "id": "AVIL3", "shortName": "ACOS VILLARES", "name": "AÇOS VILLARES SA" },
+  { "id": "AVLL3", "shortName": "ALPHAVILLE", "name": "ALPHAVILLE S.A." },
+  {
+    "id": "AZEV3",
+    "shortName": "AZEVEDO & TRAVASSOS",
+    "name": "AZEVEDO & TRAVASSOS SA"
+  },
+  {
+    "id": "AZEV4",
+    "shortName": "AZEVEDO & TRAVASSOS",
+    "name": "AZEVEDO & TRAVASSOS SA"
+  },
+  { "id": "AZUL4", "shortName": "AZUL", "name": "AZUL S.A." },
+  {
+    "id": "B3SA3",
+    "shortName": "B3",
+    "name": "B3 S.A. - BRASIL, BOLSA, BALCÃO"
+  },
+  { "id": "BAHI11", "shortName": "BAHEMA", "name": "BAHEMA SA" },
+  { "id": "BAHI3", "shortName": "BAHEMA", "name": "BAHEMA SA" },
+  { "id": "BAHI4", "shortName": "BAHEMA", "name": "BAHEMA SA" },
+  { "id": "BAHI5", "shortName": "BAHEMA", "name": "BAHEMA SA" },
+  { "id": "BALM3", "shortName": "BAUMER", "name": "BAUMER SA" },
+  { "id": "BALM4", "shortName": "BAUMER", "name": "BAUMER SA" },
+  {
+    "id": "BAUH4",
+    "shortName": "EXCELSIOR",
+    "name": "EXCELSIOR ALIMENTOS SA."
+  },
+  {
+    "id": "BAZA3",
+    "shortName": "BANCO DA AMAZONIA S.A.",
+    "name": "BANCO DA AMAZÔNIA S.A."
+  },
+  {
+    "id": "BBAS3",
+    "shortName": "BANCO DO BRASIL S.A.",
+    "name": "BANCO DO BRASIL S.A."
+  },
+  {
+    "id": "BBDC3",
+    "shortName": "BANCO BRADESCO S.A.",
+    "name": "BANCO BRADESCO SA"
+  },
+  {
+    "id": "BBDC4",
+    "shortName": "BANCO BRADESCO S.A.",
+    "name": "BANCO BRADESCO SA"
+  },
+  {
+    "id": "BBRK3",
+    "shortName": "BR Brokers",
+    "name": "BRASIL BROKERS PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "BBSE3",
+    "shortName": "BBSEGURIDADE",
+    "name": "BB SEGURIDADE PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "BBTG11",
+    "shortName": "BTG PACTUAL UNITS",
+    "name": "Units BTG PACTUAL"
+  },
+  {
+    "id": "BBTG12",
+    "shortName": "BTG PACTUAL",
+    "name": "BTG PACTUAL PARTICIPATIONS. LTD."
+  },
+  {
+    "id": "BBTG13",
+    "shortName": "BTG PACTUAL",
+    "name": "BTG PACTUAL PARTICIPATIONS. LTD."
+  },
+  { "id": "BCAL6", "shortName": "PRO METALURG", "name": "PRÓ METALURGIA S.A." },
+  {
+    "id": "BDLL3",
+    "shortName": "BAEDELLA",
+    "name": "BARDELLA SA INDS MECANICAS"
+  },
+  {
+    "id": "BDLL4",
+    "shortName": "BAEDELLA",
+    "name": "BARDELLA SA INDS MECANICAS"
+  },
+  {
+    "id": "BECE3",
+    "shortName": "BEC",
+    "name": "BANCO DO ESTADO DO CEARA S/A BEC"
+  },
+  {
+    "id": "BECE4",
+    "shortName": "BEC",
+    "name": "BANCO DO ESTADO DO CEARA S/A BEC"
+  },
+  { "id": "BEEF3", "shortName": "Minerva", "name": "MINERVA S/A" },
+  {
+    "id": "BEES3",
+    "shortName": "BANESTES S/A",
+    "name": "BANESTES SA BANCO ESTADO ESPIRITO SANTO"
+  },
+  {
+    "id": "BEES4",
+    "shortName": "BANESTES S/A",
+    "name": "BANESTES SA BANCO ESTADO ESPIRITO SANTO"
+  },
+  {
+    "id": "BELG3",
+    "shortName": "BELGO",
+    "name": "COMPANHIA SIDERÚRGICA BELGO-MINEIRA"
+  },
+  {
+    "id": "BELG4",
+    "shortName": "BELGO",
+    "name": "COMPANHIA SIDERÚRGICA BELGO-MINEIRA"
+  },
+  {
+    "id": "BEMA3",
+    "shortName": "Bematech",
+    "name": "BEMATECH IND COM EQUIP ELETRONICOS SA"
+  },
+  { "id": "BERG3", "shortName": "BERGAMO", "name": "BERGAMO CIA INDUSTRIAL" },
+  {
+    "id": "BESP3",
+    "shortName": "BANESPA",
+    "name": "BANCO DO ESTADO DE SAO PAULO S.A. - BANESPA"
+  },
+  {
+    "id": "BESP4",
+    "shortName": "BANESPA",
+    "name": "BANCO DO ESTADO DE SAO PAULO S.A. - BANESPA"
+  },
+  {
+    "id": "BFIT3",
+    "shortName": "BANCO SUDAMERIS BRASIL SA",
+    "name": "BANCO SUDAMERIS BRASIL SA"
+  },
+  {
+    "id": "BFIT4",
+    "shortName": "BANCO SUDAMERIS BRASIL SA",
+    "name": "BANCO SUDAMERIS BRASIL SA"
+  },
+  { "id": "BGIP3", "shortName": "BANESE", "name": "BANCO ESTADO SERGIPE SA" },
+  { "id": "BGIP4", "shortName": "BANESE", "name": "BANCO ESTADO SERGIPE SA" },
+  {
+    "id": "BHGR3",
+    "shortName": "BHG",
+    "name": "BHG S.A. - BRAZIL HOSPITALITY GROUP"
+  },
+  {
+    "id": "BICB3",
+    "shortName": "BicBanco",
+    "name": "BANCO INDUSTRIAL E COMERCIAL S/A"
+  },
+  {
+    "id": "BICB4",
+    "shortName": "BicBanco",
+    "name": "BANCO INDUSTRIAL E COMERCIAL S/A"
+  },
+  { "id": "BIDI11", "shortName": "BANCO INTER", "name": "BANCO INTER S.A." },
+  { "id": "BIDI3", "shortName": "BANCO INTER", "name": "BANCO INTER S.A." },
+  { "id": "BIDI4", "shortName": "BANCO INTER", "name": "BANCO INTER S.A." },
+  { "id": "BIOM3", "shortName": "BIOMM SA", "name": "BIOMM SA" },
+  { "id": "BIOM4", "shortName": "BIOMM SA", "name": "BIOMM SA" },
+  {
+    "id": "BISA3",
+    "shortName": "BROOKFIELD INCORPORACOES",
+    "name": "BROOKFIELD INCORPORACOES S.A."
+  },
+  {
+    "id": "BKBR3",
+    "shortName": "BK BRASIL",
+    "name": "BK BRASIL OPERAÇÃO E ASSESSORIA A RESTAURANTES SA"
+  },
+  {
+    "id": "BMEB3",
+    "shortName": "BANCO MERCANTIL DO BRASIL S/A",
+    "name": "BANCO MERCANTIL BRASIL SA"
+  },
+  {
+    "id": "BMEB4",
+    "shortName": "BANCO MERCANTIL DO BRASIL S/A",
+    "name": "BANCO MERCANTIL BRASIL SA"
+  },
+  {
+    "id": "BMEF3",
+    "shortName": "BMF",
+    "name": "BOLSA DE MERCADORIAS & FUTUROS - BM&F S/A"
+  },
+  { "id": "BMGB11", "shortName": "BANCO BMG", "name": "BANCO BMG S.A." },
+  { "id": "BMGB4", "shortName": "BANCO BMG", "name": "BANCO BMG S.A." },
+  {
+    "id": "BMIN3",
+    "shortName": "BANCO MERCANTIL DE INVESTIMENTOS SA",
+    "name": "BCO MERCANTIL INVS SA"
+  },
+  {
+    "id": "BMIN4",
+    "shortName": "BANCO MERCANTIL DE INVESTIMENTOS SA",
+    "name": "BCO MERCANTIL INVS SA"
+  },
+  { "id": "BMKS3", "shortName": "MONARK", "name": "BICICLETAS MONARK SA" },
+  {
+    "id": "BMOB3",
+    "shortName": "BEMOBI TECH",
+    "name": "BEMOBI MOBILE TECH S.A."
+  },
+  { "id": "BMTO3", "shortName": "BRASMOTOR S.A", "name": "BRASMOTOR SA" },
+  { "id": "BMTO4", "shortName": "BRASMOTOR S.A", "name": "BRASMOTOR SA" },
+  {
+    "id": "BNBR3",
+    "shortName": "BANCO DO NORDESTE",
+    "name": "BANCO DO NORDESTE DO BRASIL SA"
+  },
+  {
+    "id": "BNBR4",
+    "shortName": "BANCO DO NORDESTE",
+    "name": "BANCO DO NORDESTE DO BRASIL SA"
+  },
+  {
+    "id": "BNCA3",
+    "shortName": "NOSSA CAIXA-NOSSO BANCO",
+    "name": "BANCO NOSSA CAIXA S.A."
+  },
+  {
+    "id": "BOAS3",
+    "shortName": "BOA VISTA",
+    "name": "BOA VISTA SERVIÇOS S.A."
+  },
+  { "id": "BOBR3", "shortName": "BOMBRIL SA", "name": "BOMBRIL SA" },
+  { "id": "BOBR4", "shortName": "BOMBRIL SA", "name": "BOMBRIL SA" },
+  { "id": "BOVH3", "shortName": "Bovespa Hld", "name": "BOVESPA HOLDING SA" },
+  { "id": "BPAC11", "shortName": "BTGP BANCO", "name": "BCO BTG PACTUAL S.A." },
+  { "id": "BPAC3", "shortName": "BTGP BANCO", "name": "BCO BTG PACTUAL S.A." },
+  { "id": "BPAC5", "shortName": "BTGP BANCO", "name": "BCO BTG PACTUAL S.A." },
+  { "id": "BPAN4", "shortName": "BANCO PAN", "name": "BCO PAN S.A." },
+  {
+    "id": "BPAR3",
+    "shortName": "BANPARÁ S.A.",
+    "name": "BANCO ESTADO PARA SA"
+  },
+  { "id": "BPAT33", "shortName": "Patagonia", "name": "BANCO PATAGONIA SA" },
+  { "id": "BPHA3", "shortName": "BRAZIL PHARMA S.A.", "name": "BR PHARMA" },
+  {
+    "id": "BPIA3",
+    "shortName": "BEP",
+    "name": "BANCO DO ESTADO DO PIAUÍ S.A."
+  },
+  { "id": "BPNM3", "shortName": "BANCO PAN", "name": "BCO PAN S.A." },
+  { "id": "BPNM4", "shortName": "BANCO PAN", "name": "BCO PAN S.A." },
+  { "id": "BRAP3", "shortName": "BRADESPAR S/A", "name": "BRADESPAR S/A" },
+  { "id": "BRAP4", "shortName": "BRADESPAR S/A", "name": "BRADESPAR S/A" },
+  {
+    "id": "BRDT3",
+    "shortName": "PETROBRAS BR",
+    "name": "PETROBRAS DISTRIBUIDORA S/A"
+  },
+  { "id": "BRFS3", "shortName": "BRF Foods", "name": "BRF Foods" },
+  {
+    "id": "BRGE11",
+    "shortName": "CONSORCIO ALFA",
+    "name": "CONSORCIO ALFA DE ADMINISTRAÇÃO SA"
+  },
+  {
+    "id": "BRGE12",
+    "shortName": "CONSORCIO ALFA",
+    "name": "CONSORCIO ALFA DE ADMINISTRAÇÃO SA"
+  },
+  {
+    "id": "BRGE3",
+    "shortName": "CONSORCIO ALFA",
+    "name": "CONSORCIO ALFA DE ADMINISTRAÇÃO SA"
+  },
+  {
+    "id": "BRGE5",
+    "shortName": "CONSORCIO ALFA",
+    "name": "CONSORCIO ALFA DE ADMINISTRAÇÃO SA"
+  },
+  {
+    "id": "BRGE6",
+    "shortName": "CONSORCIO ALFA",
+    "name": "CONSORCIO ALFA DE ADMINISTRAÇÃO SA"
+  },
+  {
+    "id": "BRGE7",
+    "shortName": "CONSORCIO ALFA",
+    "name": "CONSORCIO ALFA DE ADMINISTRAÇÃO SA"
+  },
+  {
+    "id": "BRGE8",
+    "shortName": "CONSORCIO ALFA",
+    "name": "CONSORCIO ALFA DE ADMINISTRAÇÃO SA"
+  },
+  {
+    "id": "BRIN3",
+    "shortName": "ALPER S.A.",
+    "name": "ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A."
+  },
+  {
+    "id": "BRIV3",
+    "shortName": "ALFA DE INVESTIMENTO",
+    "name": "BANCO ALFA DE INVESTIMENTO SA"
+  },
+  {
+    "id": "BRIV4",
+    "shortName": "ALFA DE INVESTIMENTO",
+    "name": "BANCO ALFA DE INVESTIMENTO SA"
+  },
+  { "id": "BRKM3", "shortName": "BRASKEM", "name": "BRASKEM S.A." },
+  { "id": "BRKM5", "shortName": "BRASKEM", "name": "BRASKEM S.A." },
+  { "id": "BRKM6", "shortName": "BRASKEM", "name": "BRASKEM S.A." },
+  {
+    "id": "BRML3",
+    "shortName": "BR MALLS PARTICIPAÇÔES S/A",
+    "name": "BR MALLS PARTICIPACOES S.A."
+  },
+  { "id": "BRPR3", "shortName": "BR PROPERTIES", "name": "BR PROPERTIES S.A." },
+  {
+    "id": "BRSR3",
+    "shortName": "BANRISUL S/A",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA"
+  },
+  {
+    "id": "BRSR4",
+    "shortName": "BANRISUL S/A",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA"
+  },
+  {
+    "id": "BRSR5",
+    "shortName": "BANRISUL S/A",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA"
+  },
+  {
+    "id": "BRSR6",
+    "shortName": "BANRISUL S/A",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA"
+  },
+  {
+    "BRTP3": "BRASIL TELECOM PARTICIPAÇÕES S.A.",
+    "name": "BRASIL TELECOM PARTICIPAÇÕES SA"
+  },
+  {
+    "BRTP4": "BRASIL TELECOM PARTICIPAÇÕES S.A.",
+    "name": "BRASIL TELECOM PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "BSCT3",
+    "shortName": "BESC S.A.",
+    "name": "BANCO DO ESTADO DE SANTA CATARINA SA"
+  },
+  {
+    "id": "BSCT5",
+    "shortName": "BESC S.A.",
+    "name": "BANCO DO ESTADO DE SANTA CATARINA SA"
+  },
+  {
+    "id": "BSCT6",
+    "shortName": "BESC S.A.",
+    "name": "BANCO DO ESTADO DE SANTA CATARINA SA"
+  },
+  { "id": "BSEV3", "shortName": "BIOSEV", "name": "BIOSEV S.A." },
+  {
+    "id": "BSGR3",
+    "shortName": "AGF BRASIL SEGUROS",
+    "name": "AGF BRASIL SEGUROS SA"
+  },
+  { "id": "BSLI3", "shortName": "BRB", "name": "BRB-BANCO DE BRASILIA SA" },
+  { "id": "BSLI4", "shortName": "BRB", "name": "BRB-BANCO DE BRASILIA SA" },
+  {
+    "BTOW3": "B2W - COMPANHIA GLOBAL DO VAREJO",
+    "name": "B2W - COMPANHIA GLOBAL DO VAREJO"
+  },
+  {
+    "id": "BTTL3",
+    "shortName": "APABA",
+    "name": "BATTISTELLA ADM E PARTIC S.A - APABA"
+  },
+  {
+    "id": "BTTL4",
+    "shortName": "APABA",
+    "name": "BATTISTELLA ADM E PARTIC S.A - APABA"
+  },
+  {
+    "id": "BUET3",
+    "shortName": "BUETTNER S/A - INDUSTRIA E COMERCIO",
+    "name": "BUETTNER SA IND E COMERCIO"
+  },
+  {
+    "id": "BUET4",
+    "shortName": "BUETTNER S/A - INDUSTRIA E COMERCIO",
+    "name": "BUETTNER SA IND E COMERCIO"
+  },
+  {
+    "id": "BVMF3",
+    "shortName": "B3",
+    "name": "B3 S.A. - BRASIL, BOLSA, BALCÃO"
+  },
+  {
+    "id": "CAFE3",
+    "shortName": "CAFE SOLUVEL BRASILIA S/A",
+    "name": "CAFE SOLUVEL BRASILIA SA"
+  },
+  {
+    "id": "CAFE4",
+    "shortName": "CAFE SOLUVEL BRASILIA S/A",
+    "name": "CAFE SOLUVEL BRASILIA SA"
+  },
+  {
+    "id": "CALI3",
+    "shortName": "CAL S/A",
+    "name": "CONST ADOLPHO LINDENBERG SA"
+  },
+  {
+    "id": "CALI4",
+    "shortName": "CAL S/A",
+    "name": "CONST ADOLPHO LINDENBERG SA"
+  },
+  { "id": "CAMB3", "shortName": "PENALTY", "name": "CAMBUCI SA" },
+  { "id": "CAMB4", "shortName": "PENALTY", "name": "CAMBUCI SA" },
+  { "id": "CAML3", "shortName": "CAMIL", "name": "CAMIL ALIMENTOS S.A." },
+  { "id": "CARD3", "shortName": "CSU CARDSYST", "name": "CSU CARDSYSTEM S.A." },
+  { "id": "CASH3", "shortName": "MELIUZ", "name": "MÉLIUZ S.A." },
+  {
+    "id": "CASN3",
+    "shortName": "CASAN",
+    "name": "CIA CAT. DE ÁGUAS E SANEAMENTO - CASAN"
+  },
+  {
+    "id": "CBEE3",
+    "shortName": "AMPLA ENERG",
+    "name": "AMPLA ENERGIA E SERVICOS S.A."
+  },
+  { "id": "CBMA3", "shortName": "COBRASMA S/A", "name": "COBRASMA SA" },
+  { "id": "CBMA4", "shortName": "COBRASMA S/A", "name": "COBRASMA SA" },
+  { "id": "CCHI3", "shortName": "CHIARELLI", "name": "CERAMICA CHIARELLI SA" },
+  { "id": "CCHI4", "shortName": "CHIARELLI", "name": "CERAMICA CHIARELLI SA" },
+  {
+    "id": "CCIM3",
+    "shortName": "CC DES IMOB",
+    "name": "CAMARGO CORREA DESENV. IMOBILIARIO S.A."
+  },
+  {
+    "CCPR3": "CYRELA COMMERCIAL PROPERTIES SA EMP PART",
+    "name": "CYRELA COMMERCIAL PROPERTIES SA EMP PART"
+  },
+  {
+    "CCRO3": "COMPANHIA DE CONCESSÕES RODOVIÁRIAS",
+    "name": "COMPANHIA DE CONCESSÕES RODOVIÁRIAS"
+  },
+  {
+    "CCTU4": "COMPANHIA BRASILEIRA DE CARTUCHOS - CBC",
+    "name": "COMPANHIA BRASILEIRA DE CARTUCHOS - CBC"
+  },
+  {
+    "id": "CCXC3",
+    "shortName": "CCX CARVAO",
+    "name": "CCX CARVÃO DA COLÔMBIA S.A."
+  },
+  { "id": "CEAB3", "shortName": "CEA MODAS", "name": "CEA MODAS S.A." },
+  {
+    "CEBR3": "CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA",
+    "name": "COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB"
+  },
+  {
+    "CEBR5": "CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA",
+    "name": "COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB"
+  },
+  {
+    "CEBR6": "CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA",
+    "name": "COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB"
+  },
+  {
+    "CEDO3": "CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA",
+    "name": "COMPANHIA DE FIACAO E TECIDOS CEDRO E CACHOEIRA"
+  },
+  {
+    "CEDO4": "CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA",
+    "name": "COMPANHIA DE FIACAO E TECIDOS CEDRO E CACHOEIRA"
+  },
+  { "id": "CEEB3", "shortName": "COELBA", "name": "CIA ELETRICIDADE DA BAHIA" },
+  { "id": "CEEB5", "shortName": "COELBA", "name": "CIA ELETRICIDADE DA BAHIA" },
+  {
+    "id": "CEED3",
+    "shortName": "CEEE-D",
+    "name": "CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D"
+  },
+  {
+    "id": "CEED4",
+    "shortName": "CEEE-D",
+    "name": "CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D"
+  },
+  {
+    "id": "CEGR3",
+    "shortName": "CEG",
+    "name": "CIA. DISTRIB. DE GÁS DO RIO DE JANEIRO"
+  },
+  {
+    "CELM3": "CELM CIA EQUIP. DE LABORATORIOS MODERNOS",
+    "name": "CELM CIA EQUIP LABS MODERNOS"
+  },
+  {
+    "id": "CELP5",
+    "shortName": "EQTL PARA",
+    "name": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A."
+  },
+  {
+    "id": "CELP7",
+    "shortName": "EQTL PARA",
+    "name": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A."
+  },
+  {
+    "id": "CEPE3",
+    "shortName": "CELPE",
+    "name": "CIA ENERGÉTICA DE PERNAMBUCO - CELPE"
+  },
+  {
+    "id": "CEPE5",
+    "shortName": "CELPE",
+    "name": "CIA ENERGÉTICA DE PERNAMBUCO - CELPE"
+  },
+  {
+    "id": "CEPE6",
+    "shortName": "CELPE",
+    "name": "CIA ENERGÉTICA DE PERNAMBUCO - CELPE"
+  },
+  {
+    "CESP3": "CESP CIA ENERGETICA SAO PAULO",
+    "name": "CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO"
+  },
+  {
+    "CESP4": "CESP CIA ENERGETICA SAO PAULO",
+    "name": "CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO"
+  },
+  {
+    "CESP5": "CESP CIA ENERGETICA SAO PAULO",
+    "name": "CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO"
+  },
+  {
+    "CESP6": "CESP CIA ENERGETICA SAO PAULO",
+    "name": "CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO"
+  },
+  {
+    "id": "CFLU4",
+    "shortName": "COCA COLA",
+    "name": "COMPANHIA FLUMINENSE DE REFRIGERANTES"
+  },
+  {
+    "CGAS3": "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS",
+    "name": "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS"
+  },
+  {
+    "CGAS5": "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS",
+    "name": "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS"
+  },
+  {
+    "id": "CGOS3",
+    "shortName": "CELG",
+    "name": "COMPANHIA ENERGÉTICA DE GOIÁS - CELG"
+  },
+  {
+    "id": "CGOS4",
+    "shortName": "CELG",
+    "name": "COMPANHIA ENERGÉTICA DE GOIÁS - CELG"
+  },
+  { "id": "CGRA3", "shortName": "GRAZZIOTIN", "name": "GRAZZIOTIN SA" },
+  { "id": "CGRA4", "shortName": "GRAZZIOTIN", "name": "GRAZZIOTIN SA" },
+  { "id": "CIEL3", "shortName": "CIELO", "name": "CIELO S.A." },
+  { "id": "CIQU3", "shortName": "CACIQUE", "name": "CIA CACIQUE CAFE SOLUVEL" },
+  { "id": "CIQU4", "shortName": "CACIQUE", "name": "CIA CACIQUE CAFE SOLUVEL" },
+  {
+    "id": "CLAN3",
+    "shortName": "CLARION",
+    "name": "CLARION S.A. AGROINDUSTRIAL"
+  },
+  {
+    "id": "CLAN4",
+    "shortName": "CLARION",
+    "name": "CLARION S.A. AGROINDUSTRIAL"
+  },
+  {
+    "id": "CLSC3",
+    "shortName": "CELESC",
+    "name": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A"
+  },
+  {
+    "id": "CLSC4",
+    "shortName": "CELESC",
+    "name": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A"
+  },
+  {
+    "id": "CLSC5",
+    "shortName": "CELESC",
+    "name": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A"
+  },
+  {
+    "id": "CLSC6",
+    "shortName": "CELESC",
+    "name": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A"
+  },
+  {
+    "id": "CMET4",
+    "shortName": "CAEMI",
+    "name": "CAEMI MINERAÇÃO E METALURGIA S.A."
+  },
+  {
+    "id": "CMIG3",
+    "shortName": "CEMIG",
+    "name": "CIA ENERG MINAS GERAIS - CEMIG"
+  },
+  {
+    "id": "CMIG4",
+    "shortName": "CEMIG",
+    "name": "CIA ENERG MINAS GERAIS - CEMIG"
+  },
+  {
+    "id": "CMMA4",
+    "shortName": "CMA PARTICIPACOES SA",
+    "name": "CMA PARTICIPAÇÕES SA"
+  },
+  { "id": "CNFB4", "shortName": "CONFAB", "name": "CONFAB INDUSTRIAL SA" },
+  { "id": "CNTO3", "shortName": "CENTAURO", "name": "GRUPO SBF SA" },
+  {
+    "id": "COCE3",
+    "shortName": "CIA ENERG CEARA - COELCE",
+    "name": "CIA ENERG CEARA - COELCE"
+  },
+  {
+    "id": "COCE5",
+    "shortName": "CIA ENERG CEARA - COELCE",
+    "name": "CIA ENERG CEARA - COELCE"
+  },
+  {
+    "id": "COCE6",
+    "shortName": "CIA ENERG CEARA - COELCE",
+    "name": "CIA ENERG CEARA - COELCE"
+  },
+  { "id": "COGN3", "shortName": "COGNA", "name": "KROTON EDUCACIONAL S.A." },
+  {
+    "id": "CORR3",
+    "shortName": "CORREA RIBEIRO SA COM. IND.",
+    "name": "CORREA RIBEIRO SA COM IND"
+  },
+  {
+    "id": "CORR4",
+    "shortName": "CORREA RIBEIRO SA COM. IND.",
+    "name": "CORREA RIBEIRO SA COM IND"
+  },
+  {
+    "id": "CPFE3",
+    "shortName": "CPFL ENERGIA S.A.",
+    "name": "CPFL ENERGIA SA"
+  },
+  {
+    "id": "CPFG3",
+    "shortName": "CPFL GERAÇÂO DE ENERGIA S/A",
+    "name": "CPFL GERAÇÃO DE ENERGIA S/A"
+  },
+  {
+    "id": "CPFG4",
+    "shortName": "CPFL GERAÇÂO DE ENERGIA S/A",
+    "name": "CPFL GERAÇÃO DE ENERGIA S/A"
+  },
+  {
+    "id": "CPFP4",
+    "shortName": "CPFL - PIRATININGA",
+    "name": "CIA PIRATININGA DE FORÇA E LUZ"
+  },
+  {
+    "id": "CPLE3",
+    "shortName": "COPEL",
+    "name": "COMPANHIA PARANAENSE DE ENERGIA"
+  },
+  {
+    "id": "CPLE5",
+    "shortName": "COPEL",
+    "name": "COMPANHIA PARANAENSE DE ENERGIA"
+  },
+  {
+    "id": "CPLE6",
+    "shortName": "COPEL",
+    "name": "COMPANHIA PARANAENSE DE ENERGIA"
+  },
+  { "id": "CPNY3", "shortName": "COMPANY S/A", "name": "COMPANY SA" },
+  {
+    "id": "CPRE3",
+    "shortName": "CPFL RENOVAV",
+    "name": "CPFL ENERGIAS RENOVÁVEIS S.A."
+  },
+  {
+    "id": "CPSL3",
+    "shortName": "COPESUL",
+    "name": "COPESUL - COMPANHIA PETROQUÍMICA DO SUL"
+  },
+  {
+    "id": "CRBM3",
+    "shortName": "CARAÍBA METAIS S.A",
+    "name": "CARAIBA METAIS SA"
+  },
+  {
+    "id": "CRBM7",
+    "shortName": "CARAÍBA METAIS S.A",
+    "name": "CARAIBA METAIS SA"
+  },
+  {
+    "id": "CRDE3",
+    "shortName": "CR2",
+    "name": "CR2 EMPREENDIMENTOS IMOBILIÁRIOS S/A"
+  },
+  { "id": "CREM3", "shortName": "CREMER S.A.", "name": "CREMER SA" },
+  { "id": "CREM4", "shortName": "CREMER S.A.", "name": "CREMER SA" },
+  { "id": "CRFB3", "shortName": "CARREFOUR BR", "name": "ATACADÃO S.A." },
+  {
+    "id": "CRIV3",
+    "shortName": "ALFA FINANCEIRA",
+    "name": "FINANCEIRA ALFA S.A.- C.F.I"
+  },
+  {
+    "id": "CRIV4",
+    "shortName": "ALFA FINANCEIRA",
+    "name": "FINANCEIRA ALFA S.A.- C.F.I"
+  },
+  {
+    "id": "CRPG3",
+    "shortName": "CRISTAL",
+    "name": "TRONOX PIGMENTOS DO BRASIL S.A."
+  },
+  {
+    "id": "CRPG5",
+    "shortName": "CRISTAL",
+    "name": "TRONOX PIGMENTOS DO BRASIL S.A."
+  },
+  {
+    "id": "CRPG6",
+    "shortName": "CRISTAL",
+    "name": "TRONOX PIGMENTOS DO BRASIL S.A."
+  },
+  {
+    "id": "CRTP3",
+    "shortName": "CELULAR CRT PARTICIPAÇÕES S/A",
+    "name": "CELULAR CRT PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "CRTP5",
+    "shortName": "CELULAR CRT PARTICIPAÇÕES S/A",
+    "name": "CELULAR CRT PARTICIPAÇÕES S.A."
+  },
+  { "id": "CRUZ3", "shortName": "SOUZA CRUZ", "name": "SOUZA CRUZ SA" },
+  {
+    "id": "CSAB3",
+    "shortName": "COMPANHIA DE SEGUROS ALIANÇA DA BAHIA",
+    "name": "CIA SEGUROS ALIANCA BAHIA"
+  },
+  {
+    "id": "CSAB4",
+    "shortName": "COMPANHIA DE SEGUROS ALIANÇA DA BAHIA",
+    "name": "CIA SEGUROS ALIANCA BAHIA"
+  },
+  {
+    "id": "CSAN3",
+    "shortName": "COSAN SA INDUSTRIA E COMERCIO",
+    "name": "COSAN SA INDUSTRIA E COMERCIO"
+  },
+  {
+    "id": "CSED3",
+    "shortName": "CRUZEIRO EDU",
+    "name": "CRUZEIRO DO SUL EDUCACIONAL S.A."
+  },
+  {
+    "id": "CSMG3",
+    "shortName": "COPASA MG",
+    "name": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS"
+  },
+  { "id": "CSNA3", "shortName": "CSN", "name": "CIA SIDERURGICA NACIONAL" },
+  {
+    "id": "CSPC3",
+    "shortName": "COSIPA",
+    "name": "COMPANHIA SIDERÚRGICA PAULISTA - COSIPA"
+  },
+  {
+    "id": "CSPC4",
+    "shortName": "COSIPA",
+    "name": "COMPANHIA SIDERÚRGICA PAULISTA - COSIPA"
+  },
+  {
+    "id": "CSRN3",
+    "shortName": "COSERN",
+    "name": "CIA ENERGÉTICA DO RIO GRANDE DO NORTE"
+  },
+  {
+    "id": "CSRN5",
+    "shortName": "COSERN",
+    "name": "CIA ENERGÉTICA DO RIO GRANDE DO NORTE"
+  },
+  {
+    "id": "CSRN6",
+    "shortName": "COSERN",
+    "name": "CIA ENERGÉTICA DO RIO GRANDE DO NORTE"
+  },
+  {
+    "CSTB3": "COMPANHIA SIDERÚRGICA DE TUBARÃO",
+    "name": "COMPANHIA SIDERÚRGICA DE TUBARÃO"
+  },
+  {
+    "CSTB4": "COMPANHIA SIDERÚRGICA DE TUBARÃO",
+    "name": "COMPANHIA SIDERÚRGICA DE TUBARÃO"
+  },
+  {
+    "id": "CTIP3",
+    "shortName": "CETIP",
+    "name": "CETIP S.A. - BALCÃO ORGANIZADO DE ATIVOS"
+  },
+  { "id": "CTKA3", "shortName": "KARSTEN", "name": "KARSTEN SA" },
+  { "id": "CTKA4", "shortName": "KARSTEN", "name": "KARSTEN SA" },
+  {
+    "id": "CTNM3",
+    "shortName": "COTEMINAS",
+    "name": "CIA TECIDOS NORTE DE MINAS - COTEMINAS"
+  },
+  {
+    "id": "CTNM4",
+    "shortName": "COTEMINAS",
+    "name": "CIA TECIDOS NORTE DE MINAS - COTEMINAS"
+  },
+  { "id": "CTPC3", "shortName": "CTM CITRUS SA", "name": "CTM CITRUS SA" },
+  { "id": "CTPC4", "shortName": "CTM CITRUS SA", "name": "CTM CITRUS SA" },
+  {
+    "id": "CTSA3",
+    "shortName": "SANTANENSE",
+    "name": "CIA TECIDOS SANTANENSE"
+  },
+  {
+    "id": "CTSA4",
+    "shortName": "SANTANENSE",
+    "name": "CIA TECIDOS SANTANENSE"
+  },
+  {
+    "id": "CTSA8",
+    "shortName": "SANTANENSE",
+    "name": "CIA TECIDOS SANTANENSE"
+  },
+  {
+    "id": "CTWR3",
+    "shortName": "BLUE TREE HOTELS",
+    "name": "BLUE TREE HOTELS & RESORTS DO BRASIL SA"
+  },
+  {
+    "id": "CURY3",
+    "shortName": "CURY S/A",
+    "name": "CURY CONSTRUTORA E INCORPORADORA S.A."
+  },
+  {
+    "id": "CVCB3",
+    "shortName": "CVC BRASIL",
+    "name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A."
+  },
+  {
+    "id": "CYRE3",
+    "shortName": "CYRELA BRAZIL REALTY",
+    "name": "CYRELA BRAZIL REALTY S.A. EMPREEN E PART"
+  },
+  {
+    "id": "CYRE4",
+    "shortName": "CYRELA BRAZIL REALTY",
+    "name": "CYRELA BRAZIL REALTY S.A. EMPREEN E PART"
+  },
+  { "id": "CZLT33", "shortName": "Cosan Ltd", "name": "COSAN LIMITED" },
+  {
+    "id": "CZRS3",
+    "shortName": "Cruzeiro Sul",
+    "name": "BANCO CRUZEIRO DO SUL SA"
+  },
+  {
+    "id": "CZRS4",
+    "shortName": "Cruzeiro Sul",
+    "name": "BANCO CRUZEIRO DO SUL SA"
+  },
+  { "id": "DAGB33", "shortName": "DUFRY AG", "name": "DUFRY A.G." },
+  {
+    "id": "DASA3",
+    "shortName": "DIAGNOSTICOS DA AMERICA SA",
+    "name": "DIAGNOSTICOS DA AMERICA SA"
+  },
+  { "id": "DAYC3", "shortName": "Daycoval", "name": "BANCO DAYCOVAL S.A." },
+  { "id": "DAYC4", "shortName": "Daycoval", "name": "BANCO DAYCOVAL S.A." },
+  {
+    "id": "DFVA3",
+    "shortName": "D F VASCONCELLOS S/A O.M.A.P.",
+    "name": "D F VASCONC SA OPT MEC A PREC"
+  },
+  {
+    "id": "DFVA4",
+    "shortName": "D F VASCONCELLOS S/A O.M.A.P.",
+    "name": "D F VASCONC SA OPT MEC A PREC"
+  },
+  { "id": "DHBI3", "shortName": "DHB", "name": "DHB IND E COMERCIO SA" },
+  { "id": "DHBI4", "shortName": "DHB", "name": "DHB IND E COMERCIO SA" },
+  {
+    "id": "DIRR3",
+    "shortName": "Direcional Engenharia",
+    "name": "DIRECIONAL ENGENHARIA S.A."
+  },
+  { "id": "DJON4", "shortName": "DIJON S/A", "name": "DIJON SA" },
+  { "id": "DMMO3", "shortName": "DOMMO", "name": "DOMMO ENERGIA S.A." },
+  {
+    "id": "DMVF3",
+    "shortName": "D1000VFARMA",
+    "name": "D1000 VAREJO FARMA PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "DOCA3",
+    "shortName": "DOCAS S.A.",
+    "name": "DOCAS INVESTIMENTOS SA"
+  },
+  {
+    "id": "DOCA4",
+    "shortName": "DOCAS S.A.",
+    "name": "DOCAS INVESTIMENTOS SA"
+  },
+  { "id": "DOHL3", "shortName": "DOHLER", "name": "DOHLER S.A." },
+  { "id": "DOHL4", "shortName": "DOHLER", "name": "DOHLER S.A." },
+  {
+    "id": "DPPI3",
+    "shortName": "IPIRANGA DISTRIBUIDORA",
+    "name": "DISTRIB PRODUTOS PETROLEO IPIRANGA S.A."
+  },
+  {
+    "id": "DPPI4",
+    "shortName": "IPIRANGA DISTRIBUIDORA",
+    "name": "DISTRIB PRODUTOS PETROLEO IPIRANGA S.A."
+  },
+  { "id": "DSUL3", "shortName": "DATASUL", "name": "DATASUL S.A." },
+  {
+    "id": "DTCY3",
+    "shortName": "DTCOM",
+    "name": "DTCOM - DIRECT TO COMPANY S.A."
+  },
+  { "id": "DTEX3", "shortName": "DURATEX", "name": "SATIPEL INDUSTRIAL S/A" },
+  {
+    "id": "DUFB11",
+    "shortName": "DUFRY SOUTH AMERICA LTD.",
+    "name": "DUFRY SOUTH AMERICA LTD."
+  },
+  {
+    "id": "DUQE3",
+    "shortName": "METALURGICA DUQUE SA",
+    "name": "METALURGICA DUQUE SA"
+  },
+  {
+    "id": "DUQE4",
+    "shortName": "METALURGICA DUQUE SA",
+    "name": "METALURGICA DUQUE SA"
+  },
+  { "id": "DURA3", "shortName": "DURATEX", "name": "DURATEX SA" },
+  { "id": "DURA4", "shortName": "DURATEX", "name": "DURATEX SA" },
+  { "id": "DXTG4", "shortName": "DIXIE TOGA", "name": "DIXIE TOGA SA" },
+  {
+    "id": "EALT3",
+    "shortName": "ELECTRO AÇO ALTONA S/A",
+    "name": "ELECTRO AÇO ALTONA S/A"
+  },
+  {
+    "id": "EALT4",
+    "shortName": "ELECTRO AÇO ALTONA S/A",
+    "name": "ELECTRO AÇO ALTONA S/A"
+  },
+  {
+    "id": "EBCO3",
+    "shortName": "EMBRACO",
+    "name": "EMP BRAS COMPRES SA - EMBRACO"
+  },
+  {
+    "id": "EBCO4",
+    "shortName": "EMBRACO",
+    "name": "EMP BRAS COMPRES SA - EMBRACO"
+  },
+  {
+    "id": "EBEN4",
+    "shortName": "BANDEIRANTE",
+    "name": "BANDEIRANTE ENERGIA S/A"
+  },
+  {
+    "id": "EBTP3",
+    "shortName": "EMBRATEL PARTICIPAÇÕES SA",
+    "name": "EMBRATEL PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "EBTP4",
+    "shortName": "EMBRATEL PARTICIPAÇÕES SA",
+    "name": "EMBRATEL PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "ECIS3",
+    "shortName": "ECISA",
+    "name": "ECISA ENG COM E INDUSTRIA SA"
+  },
+  {
+    "id": "ECIS4",
+    "shortName": "ECISA",
+    "name": "ECISA ENG COM E INDUSTRIA SA"
+  },
+  {
+    "id": "ECOR3",
+    "shortName": "ECORODOVIAS",
+    "name": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A."
+  },
+  {
+    "id": "ECPR3",
+    "shortName": "ENCORPAR",
+    "name": "EMP.NAC.C., RÉDITO E PART. S.A. ENCORPAR"
+  },
+  {
+    "id": "ECPR4",
+    "shortName": "ENCORPAR",
+    "name": "EMP.NAC.C., RÉDITO E PART. S.A. ENCORPAR"
+  },
+  {
+    "id": "EEEL3",
+    "shortName": "CEEE",
+    "name": "CIA ESTADUAL ENERG ELETR-CEEE"
+  },
+  {
+    "id": "EEEL4",
+    "shortName": "CEEE",
+    "name": "CIA ESTADUAL ENERG ELETR-CEEE"
+  },
+  {
+    "id": "EGIE3",
+    "shortName": "ENGIE BRASIL",
+    "name": "ENGIE BRASIL ENERGIA S.A."
+  },
+  {
+    "EKTR3": "ELEKTRO ELETRICIDADE E SERVIÇOS S.A.",
+    "name": "ELEKTRO ELETRICIDADE E SERVIÇOS S.A."
+  },
+  {
+    "EKTR4": "ELEKTRO ELETRICIDADE E SERVIÇOS S.A.",
+    "name": "ELEKTRO ELETRICIDADE E SERVIÇOS S.A."
+  },
+  {
+    "ELCA3": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A.",
+    "name": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A."
+  },
+  {
+    "ELCA4": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A.",
+    "name": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A."
+  },
+  { "id": "ELEK3", "shortName": "ELEKEIROZ S/A", "name": "ELEKEIROZ S/A" },
+  { "id": "ELEK4", "shortName": "ELEKEIROZ S/A", "name": "ELEKEIROZ S/A" },
+  {
+    "id": "ELET3",
+    "shortName": "ELETROBRÁS",
+    "name": "CENTRAIS ELET BRASILEIRAS SA"
+  },
+  {
+    "id": "ELET5",
+    "shortName": "ELETROBRÁS",
+    "name": "CENTRAIS ELET BRASILEIRAS SA"
+  },
+  {
+    "id": "ELET6",
+    "shortName": "ELETROBRÁS",
+    "name": "CENTRAIS ELET BRASILEIRAS SA"
+  },
+  { "id": "ELEV3", "shortName": "ELEVA", "name": "ELEVA ALIMENTOS S/A" },
+  {
+    "id": "ELPL3",
+    "shortName": "AES ELETROPAULO",
+    "name": "ELETROPAULO METROPOLITANA EL.S.PAULO S.A"
+  },
+  {
+    "id": "ELPL4",
+    "shortName": "AES ELETROPAULO",
+    "name": "ELETROPAULO METROPOLITANA EL.S.PAULO S.A"
+  },
+  {
+    "id": "ELPL5",
+    "shortName": "AES ELETROPAULO",
+    "name": "ELETROPAULO METROPOLITANA EL.S.PAULO S.A"
+  },
+  {
+    "id": "ELPL6",
+    "shortName": "AES ELETROPAULO",
+    "name": "ELETROPAULO METROPOLITANA EL.S.PAULO S.A"
+  },
+  {
+    "id": "ELUM3",
+    "shortName": "ELUMA",
+    "name": "ELUMA SA INDUSTRIA E COMERCIO"
+  },
+  {
+    "id": "ELUM4",
+    "shortName": "ELUMA",
+    "name": "ELUMA SA INDUSTRIA E COMERCIO"
+  },
+  {
+    "id": "EMAE4",
+    "shortName": "EMAE",
+    "name": "EMAE-EMP.METROPOLITANA ÁGUAS ENERGIA S.A"
+  },
+  {
+    "id": "EMBR3",
+    "shortName": "EMBRAER",
+    "name": "EMBRAER EMP BRAS AERON SA"
+  },
+  {
+    "id": "ENAT3",
+    "shortName": "ENAUTA PART",
+    "name": "ENAUTA PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "ENBR3",
+    "shortName": "EDP ENERGIAS DO BRASIL S/A",
+    "name": "EDP ENERGIAS DO BRASIL S/A"
+  },
+  {
+    "id": "ENER3",
+    "shortName": "ENERSUL",
+    "name": "EMPRESA ENERGÉTICA DE M.S. S.A."
+  },
+  {
+    "id": "ENER5",
+    "shortName": "ENERSUL",
+    "name": "EMPRESA ENERGÉTICA DE M.S. S.A."
+  },
+  {
+    "id": "ENER6",
+    "shortName": "ENERSUL",
+    "name": "EMPRESA ENERGÉTICA DE M.S. S.A."
+  },
+  { "id": "ENEV3", "shortName": "ENEVA", "name": "ENEVA S.A" },
+  { "id": "ENGI11", "shortName": "ENERGISA", "name": "ENERGISA SA" },
+  { "id": "ENGI3", "shortName": "ENERGISA", "name": "ENERGISA SA" },
+  { "id": "ENGI4", "shortName": "ENERGISA", "name": "ENERGISA SA" },
+  {
+    "id": "ENJU3",
+    "shortName": "ENJOEI",
+    "name": "ENJOEI.COM.BR ATIVIDADES DE INTERNET S.A."
+  },
+  {
+    "id": "ENMT3",
+    "shortName": "ENERGISA MT",
+    "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A"
+  },
+  {
+    "id": "ENMT4",
+    "shortName": "ENERGISA MT",
+    "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A"
+  },
+  {
+    "id": "EQMA3B",
+    "shortName": "CEMAR",
+    "name": "COMPANHIA ENERGÉTICA DO MARANHÃO CEMAR"
+  },
+  {
+    "id": "EQMA5B",
+    "shortName": "CEMAR",
+    "name": "COMPANHIA ENERGÉTICA DO MARANHÃO CEMAR"
+  },
+  {
+    "id": "EQMA6B",
+    "shortName": "CEMAR",
+    "name": "COMPANHIA ENERGÉTICA DO MARANHÃO CEMAR"
+  },
+  {
+    "id": "EQPA3",
+    "shortName": "EQTL PARA",
+    "name": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A."
+  },
+  {
+    "id": "EQPA5",
+    "shortName": "EQTL PARA",
+    "name": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A."
+  },
+  {
+    "id": "EQPA6",
+    "shortName": "EQTL PARA",
+    "name": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A."
+  },
+  {
+    "id": "EQPA7",
+    "shortName": "EQTL PARA",
+    "name": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A."
+  },
+  {
+    "id": "EQTL3",
+    "shortName": "EQUATORIAL ENERGIA S.A.",
+    "name": "EQUATORIAL ENERGIA S.A."
+  },
+  {
+    "id": "ESCE3",
+    "shortName": "ESCELSA",
+    "name": "ESPIRITO SANTO CENTRAIS ELETRICAS SA"
+  },
+  { "id": "ESPA3", "shortName": "ESPACOLASER", "name": "MPM CORPÓREOS S.A." },
+  {
+    "id": "ESTC11",
+    "shortName": "YDUQS PART",
+    "name": "ESTACIO PARTICIPACOES S.A."
+  },
+  {
+    "id": "ESTC3",
+    "shortName": "YDUQS PART",
+    "name": "ESTACIO PARTICIPACOES S.A."
+  },
+  {
+    "id": "ESTC4",
+    "shortName": "YDUQS PART",
+    "name": "ESTACIO PARTICIPACOES S.A."
+  },
+  {
+    "id": "ESTR3",
+    "shortName": "ESTRELA",
+    "name": "MANUFATURA DE BRINQUEDOS ESTRELA SA"
+  },
+  {
+    "id": "ESTR4",
+    "shortName": "ESTRELA",
+    "name": "MANUFATURA DE BRINQUEDOS ESTRELA SA"
+  },
+  { "id": "ETER3", "shortName": "ETERNIT", "name": "ETERNIT SA" },
+  { "id": "ETER4", "shortName": "ETERNIT", "name": "ETERNIT SA" },
+  {
+    "id": "EUCA3",
+    "shortName": "EUCATEX",
+    "name": "EUCATEX SA IND E COMERCIO"
+  },
+  {
+    "id": "EUCA4",
+    "shortName": "EUCATEX",
+    "name": "EUCATEX SA IND E COMERCIO"
+  },
+  {
+    "id": "EVEN3",
+    "shortName": "Even",
+    "name": "EVEN CONSTRUTORA E INCORPORADORA S/A"
+  },
+  {
+    "id": "EZTC3",
+    "shortName": "EZTec",
+    "name": "EZ TEC EMPREEND. E PARTICIPAÇÕES S/A"
+  },
+  { "id": "FBMC3", "shortName": "FIBAM", "name": "FIBAM CIA INDUSTRIAL" },
+  { "id": "FBMC4", "shortName": "FIBAM", "name": "FIBAM CIA INDUSTRIAL" },
+  { "id": "FBRA4", "shortName": "FERTIBRÁS S/A", "name": "FERTIBRAS SA" },
+  { "id": "FCAP3", "shortName": "FICAP", "name": "SAM INDUSTRIAS SA" },
+  { "id": "FCAP4", "shortName": "FICAP", "name": "SAM INDUSTRIAS SA" },
+  {
+    "id": "FESA3",
+    "shortName": "FERBASA",
+    "name": "CIA FERRO LIGAS BAHIA FERBASA"
+  },
+  {
+    "id": "FESA4",
+    "shortName": "FERBASA",
+    "name": "CIA FERRO LIGAS BAHIA FERBASA"
+  },
+  {
+    "id": "FFTL3",
+    "shortName": "FOSFERTIL",
+    "name": "FERTILIZANTES FOSFATADOS S.A. FOSFERTIL"
+  },
+  {
+    "id": "FFTL4",
+    "shortName": "FOSFERTIL",
+    "name": "FERTILIZANTES FOSFATADOS S.A. FOSFERTIL"
+  },
+  {
+    "id": "FGUI3",
+    "shortName": "FERREIRA GUIMARAES",
+    "name": "CIA TEXTIL FERREIRA GUIMARAES"
+  },
+  {
+    "id": "FGUI4",
+    "shortName": "FERREIRA GUIMARAES",
+    "name": "CIA TEXTIL FERREIRA GUIMARAES"
+  },
+  {
+    "id": "FHER3",
+    "shortName": "Fer Heringer",
+    "name": "FERTILIZANTES HERINGER SA"
+  },
+  {
+    "id": "FIBR3",
+    "shortName": "Fibria",
+    "name": "VOTORANTIM CELULOSE E PAPEL SA"
+  },
+  {
+    "id": "FIGE3",
+    "shortName": "INVESTIMENTOS BEMGE",
+    "name": "INVESTIMENTOS BEMGE S.A."
+  },
+  {
+    "id": "FIGE4",
+    "shortName": "INVESTIMENTOS BEMGE",
+    "name": "INVESTIMENTOS BEMGE S.A."
+  },
+  { "id": "FJTA3", "shortName": "TAURUS ARMAS", "name": "TAURUS ARMAS S.A." },
+  { "id": "FJTA4", "shortName": "TAURUS ARMAS", "name": "TAURUS ARMAS S.A." },
+  {
+    "id": "FLCL3",
+    "shortName": "CATAG LEOPOLDINA",
+    "name": "CIA FORÇA E LUZ CATAGUAZES-LEOPOLDINA"
+  },
+  {
+    "id": "FLCL5",
+    "shortName": "CATAG LEOPOLDINA",
+    "name": "CIA FORÇA E LUZ CATAGUAZES-LEOPOLDINA"
+  },
+  {
+    "id": "FLCL6",
+    "shortName": "CATAG LEOPOLDINA",
+    "name": "CIA FORÇA E LUZ CATAGUAZES-LEOPOLDINA"
+  },
+  { "id": "FLRY3", "shortName": "FLEURY", "name": "FLEURY S.A." },
+  { "id": "FRAS3", "shortName": "FRAS-LE S.A.", "name": "FRAS-LE SA" },
+  { "id": "FRAS4", "shortName": "FRAS-LE S.A.", "name": "FRAS-LE SA" },
+  {
+    "id": "FRIO3",
+    "shortName": "Metalfrio",
+    "name": "METALFRIO SOLUTIONS S/A"
+  },
+  { "id": "FRTA3", "shortName": "POMIFRUTAS", "name": "POMIFRUTAS S/A" },
+  {
+    "id": "FTRX3",
+    "shortName": "FAB TECIDOS C RENAUX",
+    "name": "FAB TECIDOS CARLOS RENAUX SA"
+  },
+  {
+    "id": "FTRX4",
+    "shortName": "FAB TECIDOS C RENAUX",
+    "name": "FAB TECIDOS CARLOS RENAUX SA"
+  },
+  { "id": "GAFP3", "shortName": "CIMOB", "name": "CIMOB PARTICIPAÇÕES SA" },
+  { "id": "GAFP4", "shortName": "CIMOB", "name": "CIMOB PARTICIPAÇÕES SA" },
+  {
+    "id": "GALO3",
+    "shortName": "EMEEGE ESCAPAMENTOS",
+    "name": "DE MAIO GALLO S.A IND. COM. PÇS P/ AUTOM"
+  },
+  {
+    "id": "GALO4",
+    "shortName": "EMEEGE ESCAPAMENTOS",
+    "name": "DE MAIO GALLO S.A IND. COM. PÇS P/ AUTOM"
+  },
+  {
+    "id": "GAZO3",
+    "shortName": "GAZOLA SA INDÚSTRIA METALURGICA",
+    "name": "GAZOLA SA INDÚSTRIA METALURGICA"
+  },
+  {
+    "id": "GAZO4",
+    "shortName": "GAZOLA SA INDÚSTRIA METALURGICA",
+    "name": "GAZOLA SA INDÚSTRIA METALURGICA"
+  },
+  {
+    "id": "GBIO33",
+    "shortName": "BIOTOSCANA",
+    "name": "BIOTOSCANA INVESTMENTS S.A."
+  },
+  {
+    "GEPA3": "DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA",
+    "name": "DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA"
+  },
+  {
+    "GEPA4": "DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA",
+    "name": "DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA"
+  },
+  { "id": "GETI3", "shortName": "AES TIETE SA", "name": "AES TIETE SA" },
+  { "id": "GETI4", "shortName": "AES TIETE SA", "name": "AES TIETE SA" },
+  { "id": "GFSA3", "shortName": "GAFISA", "name": "GAFISA SA" },
+  { "id": "GGBR3", "shortName": "GERDAU S.A.", "name": "GERDAU SA" },
+  { "id": "GGBR4", "shortName": "GERDAU S.A.", "name": "GERDAU SA" },
+  { "id": "GLOB4", "shortName": "VIAVAREJO", "name": "VIA VAREJO S.A." },
+  { "id": "GMAT3", "shortName": "GRUPO MATEUS", "name": "GRUPO MATEUS S.A." },
+  {
+    "id": "GNDI3",
+    "shortName": "INTERMEDICA",
+    "name": "NOTRE DAME INTERMEDICA PARTICIPACOES SA"
+  },
+  {
+    "id": "GOAU3",
+    "shortName": "METALÚRGICA GERDAU",
+    "name": "METALURGICA GERDAU SA"
+  },
+  {
+    "id": "GOAU4",
+    "shortName": "METALÚRGICA GERDAU",
+    "name": "METALURGICA GERDAU SA"
+  },
+  {
+    "GOLL4": "GOL LINHAS AEREAS INTELIGENTES SA",
+    "name": "GOL LINHAS AEREAS INTELIGENTES SA"
+  },
+  {
+    "id": "GPAR3",
+    "shortName": "CELGPAR",
+    "name": "CIA CELG DE PARTICIPACOES - CELGPAR"
+  },
+  {
+    "id": "GPCP3",
+    "shortName": "GPC PARTICIPACOES SA",
+    "name": "GPC PARTICIPACOES SA"
+  },
+  {
+    "id": "GPIV33",
+    "shortName": "GP INVESTMENTS, LTD",
+    "name": "GP INVESTMENTS, LTD"
+  },
+  { "id": "GRND3", "shortName": "GRENDENE SA", "name": "GRENDENE SA" },
+  {
+    "id": "GRNL4",
+    "shortName": "GRANÓLEO S/A",
+    "name": "GRANOLEO SA CI SEMS OLEAGS DER"
+  },
+  {
+    "id": "GSHP3",
+    "shortName": "Generalshopp",
+    "name": "GENERAL SHOPPING BRASIL SA"
+  },
+  {
+    "id": "GUAR3",
+    "shortName": "GUARARAPES CONFECÇÕES",
+    "name": "GUARARAPES CONFECÇÕES SA"
+  },
+  {
+    "id": "GUAR4",
+    "shortName": "GUARARAPES CONFECÇÕES",
+    "name": "GUARARAPES CONFECÇÕES SA"
+  },
+  { "id": "GVTT3", "shortName": "GVT HOLDING", "name": "GVT (HOLDING) S.A." },
+  { "id": "HAGA3", "shortName": "HAGA", "name": "FERRAGENS HAGA SA" },
+  { "id": "HAGA4", "shortName": "HAGA", "name": "FERRAGENS HAGA SA" },
+  {
+    "id": "HAPV3",
+    "shortName": "HAPVIDA",
+    "name": "HAPVIDA PARTICIPACOES E INVESTIMENTOS SA"
+  },
+  {
+    "id": "HBOR3",
+    "shortName": "Helbor",
+    "name": "HELBOR EMPREENDIMENTOS S/A"
+  },
+  {
+    "id": "HBRE3",
+    "shortName": "HBR REALTY",
+    "name": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS S/A"
+  },
+  {
+    "id": "HBSA3",
+    "shortName": "HIDROVIAS",
+    "name": "HIDROVIAS DO BRASIL S.A."
+  },
+  {
+    "id": "HBTS5",
+    "shortName": "CIA HABITASUL",
+    "name": "COMPANHIIA HABITASUL DE PARTICIPAÇÕES"
+  },
+  {
+    "id": "HETA3",
+    "shortName": "HERCULES S/A",
+    "name": "HERCULES S/A - FABRICA DE TALHERES"
+  },
+  {
+    "id": "HETA4",
+    "shortName": "HERCULES S/A",
+    "name": "HERCULES S/A - FABRICA DE TALHERES"
+  },
+  { "id": "HGTX3", "shortName": "CIA HERING", "name": "CIA HERING" },
+  { "id": "HGTX4", "shortName": "CIA HERING", "name": "CIA HERING" },
+  {
+    "id": "HOOT4",
+    "shortName": "HOTEIS OTHON S.A.",
+    "name": "HOTEIS OTHON SA"
+  },
+  { "id": "HRTP3", "shortName": "PETRORIO", "name": "PETRO RIO S.A." },
+  { "id": "HYPE3", "shortName": "HYPERA", "name": "HYPERA S.A." },
+  {
+    "id": "ICPI3",
+    "shortName": "CIMENTO ITAU CORUMBA",
+    "name": "CIMENTO ITAU DE CORUMBA SA"
+  },
+  { "id": "IDNT3", "shortName": "PADTEC", "name": "PADTEC HOLDING S.A." },
+  { "id": "IDVL11", "shortName": "Indusval", "name": "BCO INDUSVAL S.A." },
+  { "id": "IDVL3", "shortName": "Indusval", "name": "BCO INDUSVAL S.A." },
+  { "id": "IDVL4", "shortName": "Indusval", "name": "BCO INDUSVAL S.A." },
+  { "id": "IENG3", "shortName": "INEPAR ENERGIA", "name": "INEPAR ENERGIA SA" },
+  { "id": "IENG5", "shortName": "INEPAR ENERGIA", "name": "INEPAR ENERGIA SA" },
+  {
+    "id": "IGBR3",
+    "shortName": "GRADIENTE",
+    "name": "GRADIENTE ELETRONICA S A"
+  },
+  {
+    "id": "IGBR5",
+    "shortName": "GRADIENTE",
+    "name": "GRADIENTE ELETRONICA S A"
+  },
+  {
+    "id": "IGBR6",
+    "shortName": "GRADIENTE",
+    "name": "GRADIENTE ELETRONICA S A"
+  },
+  {
+    "id": "IGTA3",
+    "shortName": "IGUATEMI",
+    "name": "IGUATEMI EMPRESA DE SHOPPING CENTERS S.A"
+  },
+  {
+    "id": "IGUA3",
+    "shortName": "CIA. IGUAÇU DE CAFÉ SOLÚVEL",
+    "name": "CIA. IGUAÇU DE CAFÉ SOLÚVEL"
+  },
+  {
+    "id": "IGUA5",
+    "shortName": "CIA. IGUAÇU DE CAFÉ SOLÚVEL",
+    "name": "CIA. IGUAÇU DE CAFÉ SOLÚVEL"
+  },
+  {
+    "id": "IGUA6",
+    "shortName": "CIA. IGUAÇU DE CAFÉ SOLÚVEL",
+    "name": "CIA. IGUAÇU DE CAFÉ SOLÚVEL"
+  },
+  { "id": "ILLS4", "shortName": "LINHAS CIRCULO", "name": "CIRCULO S/A" },
+  {
+    "id": "ILMD3",
+    "shortName": "YARA BRASIL FERTILIZANTES S.A.",
+    "name": "YARA BRASIL FERTILIZANTES S.A."
+  },
+  {
+    "id": "ILMD4",
+    "shortName": "YARA BRASIL FERTILIZANTES S.A.",
+    "name": "YARA BRASIL FERTILIZANTES S.A."
+  },
+  {
+    "id": "IMBI3",
+    "shortName": "COMPANHIA DOCAS DE IMBITUBA",
+    "name": "CIA DOCAS DE IMBITUBA"
+  },
+  {
+    "id": "IMBI4",
+    "shortName": "COMPANHIA DOCAS DE IMBITUBA",
+    "name": "CIA DOCAS DE IMBITUBA"
+  },
+  {
+    "id": "IMCH3",
+    "shortName": "IMC HOLDINGS",
+    "name": "International Meal Company Holdings S.A."
+  },
+  {
+    "id": "INEP3",
+    "shortName": "INEPAR S/A",
+    "name": "INEPAR SA IND E CONSTRUCOES"
+  },
+  {
+    "id": "INEP4",
+    "shortName": "INEPAR S/A",
+    "name": "INEPAR SA IND E CONSTRUCOES"
+  },
+  { "id": "INET3", "shortName": "ATOMPAR", "name": "ATOM PARTICIPACOES S.A." },
+  { "id": "INHA3", "shortName": "GAFISA", "name": "GAFISA SA" },
+  {
+    "id": "INTB3",
+    "shortName": "INTELBRAS",
+    "name": "INTELBRAS S.A. IND DE TELEC ELETRONICA BRASILEIRA"
+  },
+  {
+    "id": "IRBR3",
+    "shortName": "IRBBRASIL RE",
+    "name": "IRB - BRASIL RESSEGUROS S.A."
+  },
+  {
+    "ITEC3": "ITAUTEC PHILCO SA - GRUPO ITAUTEC PHILCO",
+    "name": "ITAUTEC PHILCO S.A. - GRUPO ITAUTEC PHILCO"
+  },
+  {
+    "id": "ITSA3",
+    "shortName": "ITAÚSA",
+    "name": "ITAÚSA - INVESTIMENTOS ITAÚ S.A."
+  },
+  {
+    "id": "ITSA4",
+    "shortName": "ITAÚSA",
+    "name": "ITAÚSA - INVESTIMENTOS ITAÚ S.A."
+  },
+  {
+    "id": "ITUB3",
+    "shortName": "ITAUUNIBANCO",
+    "name": "ITAU UNIBANCO HOLDING S.A."
+  },
+  {
+    "id": "ITUB4",
+    "shortName": "ITAUUNIBANCO",
+    "name": "ITAU UNIBANCO HOLDING S.A."
+  },
+  {
+    "id": "IVTT3",
+    "shortName": "BHG",
+    "name": "BHG S.A. - BRAZIL HOSPITALITY GROUP"
+  },
+  { "id": "JALL3", "shortName": "JALLESMACHAD", "name": "JALLES MACHADO S.A." },
+  { "id": "JBDU3", "shortName": "J B DUARTE", "name": "INDS J B DUARTE SA" },
+  { "id": "JBDU4", "shortName": "J B DUARTE", "name": "INDS J B DUARTE SA" },
+  { "id": "JBSS3", "shortName": "JBS", "name": "JBS S.A." },
+  { "id": "JFAB4", "shortName": "JARAGUA FABRIL", "name": "JARAGUA FABRIL SA" },
+  {
+    "id": "JFEN3",
+    "shortName": "JOÃO FORTES ENGENHARIA S.A.",
+    "name": "JOAO FORTES ENGENHARIA SA"
+  },
+  { "id": "JHSF3", "shortName": "JHSF Part", "name": "JHSF PARTICIPAÇÕES SA" },
+  {
+    "id": "JOPA3",
+    "shortName": "JOSAPAR S/A",
+    "name": "JOSAPAR- JOAQUIM OLIVEIRA S/A PARTICIP"
+  },
+  {
+    "id": "JOPA4",
+    "shortName": "JOSAPAR S/A",
+    "name": "JOSAPAR- JOAQUIM OLIVEIRA S/A PARTICIP"
+  },
+  {
+    "id": "JPSA3",
+    "shortName": "JEREISSATI PARTICIPACOES",
+    "name": "JEREISSATI PARTICIPACOES"
+  },
+  {
+    "id": "JSLG3",
+    "shortName": "JULIO SIMOES",
+    "name": "JÚLIO SIMÕES LOGÍSTICA S.A."
+  },
+  { "id": "KEPL3", "shortName": "KEPLER WEBER SA", "name": "KEPLER WEBER SA" },
+  { "id": "KLBN11", "shortName": "KLABIN", "name": "KLABIN S.A." },
+  { "id": "KLBN3", "shortName": "KLABIN", "name": "KLABIN S.A." },
+  { "id": "KLBN4", "shortName": "KLABIN", "name": "KLABIN S.A." },
+  { "id": "KROT11", "shortName": "COGNA", "name": "KROTON EDUCACIONAL S.A." },
+  { "id": "KROT3", "shortName": "COGNA", "name": "KROTON EDUCACIONAL S.A." },
+  { "id": "KROT4", "shortName": "COGNA", "name": "KROTON EDUCACIONAL S.A." },
+  { "id": "KSSA3", "shortName": "KLABINSEGALL", "name": "KLABIN SEGALL S.A." },
+  {
+    "id": "LAME3",
+    "shortName": "LOJAS AMERICANAS S.A.",
+    "name": "LOJAS AMERICANAS SA"
+  },
+  {
+    "id": "LAME4",
+    "shortName": "LOJAS AMERICANAS S.A.",
+    "name": "LOJAS AMERICANAS SA"
+  },
+  {
+    "id": "LATM11",
+    "shortName": "LATAM AIRLN",
+    "name": "LATAM AIRLINES GROUP S.A."
+  },
+  {
+    "LATS3": "REXAM BEVERAGE CAN SOUTH AMERICA",
+    "name": "REXAM BEVERAGE CAN SOUTH AMERICA S.A."
+  },
+  {
+    "id": "LAVV3",
+    "shortName": "LAVVI",
+    "name": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A."
+  },
+  {
+    "id": "LCAM3",
+    "shortName": "LOCAMERICA",
+    "name": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS"
+  },
+  {
+    "id": "LCSA3",
+    "shortName": "NÃO CONSTA",
+    "name": "PARMALAT BRASIL S.A IND DE ALIMENTOS."
+  },
+  {
+    "id": "LCSA4",
+    "shortName": "NÃO CONSTA",
+    "name": "PARMALAT BRASIL S.A IND DE ALIMENTOS."
+  },
+  {
+    "id": "LECO3",
+    "shortName": "LECO",
+    "name": "CIA LECO DE PRODS ALIMENTICIOS"
+  },
+  {
+    "id": "LECO4",
+    "shortName": "LECO",
+    "name": "CIA LECO DE PRODS ALIMENTICIOS"
+  },
+  { "id": "LETO3", "shortName": "MITTO", "name": "INDUSTRIAS MICHELETTO S/A" },
+  { "id": "LETO5", "shortName": "MITTO", "name": "INDUSTRIAS MICHELETTO S/A" },
+  {
+    "id": "LEVE3",
+    "shortName": "MAHLE METAL LEVE",
+    "name": "MAHLE METAL LEVE S.A."
+  },
+  {
+    "id": "LEVE4",
+    "shortName": "MAHLE METAL LEVE",
+    "name": "MAHLE METAL LEVE S.A."
+  },
+  {
+    "id": "LFFE3",
+    "shortName": "LA FONTE TELECOM S/A",
+    "name": "LA FONTE TELECOM S/A"
+  },
+  {
+    "id": "LFFE4",
+    "shortName": "LA FONTE TELECOM S/A",
+    "name": "LA FONTE TELECOM S/A"
+  },
+  {
+    "id": "LGLO4",
+    "shortName": "LIVRARIA DO GLOBO S/A",
+    "name": "LIVRARIA DO GLOBO SA"
+  },
+  {
+    "id": "LIGH3",
+    "shortName": "LIGHT",
+    "name": "LIGHT SERVIÇOS DE ELETRICIDADE SA"
+  },
+  { "id": "LIGT3", "shortName": "LIGHT SA", "name": "LIGHT SA" },
+  { "id": "LINX3", "shortName": "LINX", "name": "LINX S.A." },
+  {
+    "id": "LIPR3",
+    "shortName": "LIGHTPAR",
+    "name": "LIGHT PARTICIPAÇÕES S.A. - LIGHTPAR"
+  },
+  {
+    "id": "LIXC3",
+    "shortName": "LIX DA CUNHA",
+    "name": "CONST LIX DA CUNHA SA"
+  },
+  {
+    "id": "LIXC4",
+    "shortName": "LIX DA CUNHA",
+    "name": "CONST LIX DA CUNHA SA"
+  },
+  {
+    "id": "LJQQ3",
+    "shortName": "QUERO-QUERO",
+    "name": "LOJAS QUERO-QUERO S/A"
+  },
+  {
+    "id": "LLIS3",
+    "shortName": "LE LIS BLANC DEUX",
+    "name": "LE LIS BLANC DEUX COM. CONF. ROUPAS S.A."
+  },
+  {
+    "id": "LOGG3",
+    "shortName": "LOG COM PROP",
+    "name": "LOG COMMERCIAL PROPERTIES"
+  },
+  {
+    "id": "LOGN3",
+    "shortName": "Log-In",
+    "name": "LOG-IN LOGISTICA INTERMODAL SA"
+  },
+  {
+    "id": "LPSB3",
+    "shortName": "LOPES BRASIL",
+    "name": "LPS BRASIL - CONSULTORIA DE IMOVEIS S.A."
+  },
+  { "id": "LREN3", "shortName": "RENNER", "name": "LOJAS RENNER SA" },
+  { "id": "LREN4", "shortName": "RENNER", "name": "LOJAS RENNER SA" },
+  { "id": "LUPA3", "shortName": "LUPATECH", "name": "LUPATECH S.A." },
+  {
+    "id": "LUXM3",
+    "shortName": "TREVISA INVESTIMENTOS SA",
+    "name": "TREVISA INVESTIMENTOS SA"
+  },
+  {
+    "id": "LUXM4",
+    "shortName": "TREVISA INVESTIMENTOS SA",
+    "name": "TREVISA INVESTIMENTOS SA"
+  },
+  {
+    "id": "LWSA3",
+    "shortName": "LOCAWEB",
+    "name": "LOCAWEB SERVIÇOS DE INTERNET S.A."
+  },
+  {
+    "id": "MAGG3",
+    "shortName": "MAGNESITA REFRATÁRIOS",
+    "name": "MAGNESITA REFRATÁRIOS S/A"
+  },
+  { "id": "MAGS3", "shortName": "MAGNESITA S/A", "name": "MAGNESITA SA" },
+  {
+    "id": "MAPT3",
+    "shortName": "CIA MARCOPOLO",
+    "name": "CEMEPE INVESTIMENTOS SA"
+  },
+  {
+    "id": "MAPT4",
+    "shortName": "CIA MARCOPOLO",
+    "name": "CEMEPE INVESTIMENTOS SA"
+  },
+  { "id": "MARI3", "shortName": "Marisa", "name": "MARISA SA" },
+  { "id": "MBLY3", "shortName": "MOBLY", "name": "Mobly S.A." },
+  {
+    "id": "MDIA3",
+    "shortName": "M.DIASBRANCO",
+    "name": "M.DIAS BRANCO S.A. IND COM DE ALIMENTOS"
+  },
+  {
+    "id": "MDNE3",
+    "shortName": "MOURA DUBEUX",
+    "name": "MOURA DUBEUX ENGENHARIA S/A"
+  },
+  {
+    "id": "MEAL3",
+    "shortName": "IMC S/A",
+    "name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A."
+  },
+  { "id": "MEDI3", "shortName": "MEDIAL SAUDE", "name": "MEDIAL SAUDE S.A." },
+  {
+    "id": "MELK3",
+    "shortName": "MELNICK",
+    "name": "MELNICK EVEN DESENVOLVIMENTO IMOBILIÁRIO S.A."
+  },
+  {
+    "id": "MEND5",
+    "shortName": "MENDES JUNIOR ENGENHARIA S/A",
+    "name": "MENDES JUNIOR ENGENHARIA SA"
+  },
+  {
+    "id": "MEND6",
+    "shortName": "MENDES JUNIOR ENGENHARIA S/A",
+    "name": "MENDES JUNIOR ENGENHARIA SA"
+  },
+  {
+    "id": "MERC3",
+    "shortName": "MERCANTIL BRASIL",
+    "name": "MERCANTIL DO BR FINC SA CFI"
+  },
+  {
+    "id": "MERC4",
+    "shortName": "MERCANTIL BRASIL",
+    "name": "MERCANTIL DO BR FINC SA CFI"
+  },
+  { "id": "MGEL3", "shortName": "MANGELS", "name": "MANGELS INDUSTRIAL SA" },
+  { "id": "MGEL4", "shortName": "MANGELS", "name": "MANGELS INDUSTRIAL SA" },
+  { "id": "MGLU3", "shortName": "MAGAZ LUIZA", "name": "MAGAZINE LUIZA S.A." },
+  { "id": "MILK33", "shortName": "Laep DR3", "name": "LAEP INVESTMENTS LTD." },
+  {
+    "id": "MILS3",
+    "shortName": "MILLS",
+    "name": "MILLS ESTRUTURAS E SERVIÇOS DE ENGENHARIA S.A."
+  },
+  {
+    "id": "MLFT3",
+    "shortName": "JEREISSATI PARTICIPACOES",
+    "name": "JEREISSATI PARTICIPACOES"
+  },
+  {
+    "id": "MLFT4",
+    "shortName": "JEREISSATI PARTICIPACOES",
+    "name": "JEREISSATI PARTICIPACOES"
+  },
+  {
+    "id": "MLPA12",
+    "shortName": "MELHORAMENTOS PAPEIS",
+    "name": "MELPAPER SA"
+  },
+  { "id": "MLPA3", "shortName": "MELHORAMENTOS PAPEIS", "name": "MELPAPER SA" },
+  { "id": "MLPA4", "shortName": "MELHORAMENTOS PAPEIS", "name": "MELPAPER SA" },
+  {
+    "id": "MMAQ3",
+    "shortName": "MINASMÁQUINAS S/A",
+    "name": "MINASMAQUINAS SA"
+  },
+  {
+    "id": "MMAQ4",
+    "shortName": "MINASMÁQUINAS S/A",
+    "name": "MINASMAQUINAS SA"
+  },
+  {
+    "id": "MMXM3",
+    "shortName": "MMX MINER",
+    "name": "MMX MINERAÇÃO E METÁLICOS S.A."
+  },
+  {
+    "id": "MNDL3",
+    "shortName": "MUNDIAL S/A",
+    "name": "MUNDIAL S/A - PRODUTOS DE CONSUMO"
+  },
+  {
+    "id": "MNDL4",
+    "shortName": "MUNDIAL S/A",
+    "name": "MUNDIAL S/A - PRODUTOS DE CONSUMO"
+  },
+  { "id": "MNPR3", "shortName": "MINUPAR", "name": "MINUPAR PARTICIPACOES SA" },
+  { "id": "MNPR4", "shortName": "MINUPAR", "name": "MINUPAR PARTICIPACOES SA" },
+  {
+    "id": "MNSA3",
+    "shortName": "MANASA",
+    "name": "MANASA MADEIREIRA NACIONAL SA"
+  },
+  {
+    "id": "MNSA4",
+    "shortName": "MANASA",
+    "name": "MANASA MADEIREIRA NACIONAL SA"
+  },
+  {
+    "id": "MOAR3",
+    "shortName": "MONTEIRO ARANHA",
+    "name": "MONTEIRO ARANHA SA"
+  },
+  {
+    "id": "MOSI3",
+    "shortName": "MOSAICO SA",
+    "name": "Mosaico Tecnologia ao Consumidor S.A."
+  },
+  { "id": "MOVI3", "shortName": "MOVIDA", "name": "MOVIDA PARTICIPACOES SA" },
+  { "id": "MPLU3", "shortName": "MULTIPLUS", "name": "Multiplus S.A." },
+  {
+    "id": "MRFG3",
+    "shortName": "Marfrig",
+    "name": "MARFRIG FRIGORIFICOS E COM DE ALIM S.A."
+  },
+  {
+    "id": "MRSA3B",
+    "shortName": "MRS LOGÍSTICA S/A",
+    "name": "MRS LOGÍSTICA S/A"
+  },
+  {
+    "id": "MRSA5B",
+    "shortName": "MRS LOGÍSTICA S/A",
+    "name": "MRS LOGÍSTICA S/A"
+  },
+  {
+    "id": "MRSA6B",
+    "shortName": "MRS LOGÍSTICA S/A",
+    "name": "MRS LOGÍSTICA S/A"
+  },
+  { "id": "MRSL3", "shortName": "MARISOL", "name": "MARISOL SA" },
+  { "id": "MRSL4", "shortName": "MARISOL", "name": "MARISOL SA" },
+  {
+    "id": "MRVE3",
+    "shortName": "MRV",
+    "name": "MRV ENGENHARIA E PARTICIPAÇÕES S/A"
+  },
+  {
+    "id": "MSAN3",
+    "shortName": "BUNGE BRASIL S.A.",
+    "name": "BUNGE BRASIL SA"
+  },
+  {
+    "id": "MSAN4",
+    "shortName": "BUNGE BRASIL S.A.",
+    "name": "BUNGE BRASIL SA"
+  },
+  {
+    "id": "MSPA3",
+    "shortName": "MELHORAMENTOS",
+    "name": "COMPANHIA MELHORAMENTOS DE SÃO PAULO"
+  },
+  {
+    "id": "MSPA4",
+    "shortName": "MELHORAMENTOS",
+    "name": "COMPANHIA MELHORAMENTOS DE SÃO PAULO"
+  },
+  { "id": "MTBR3", "shortName": "WHIRLPOOL S.A.", "name": "WHIRLPOOL S.A." },
+  { "id": "MTBR4", "shortName": "WHIRLPOOL S.A.", "name": "WHIRLPOOL S.A." },
+  { "id": "MTIG3", "shortName": "IGUAÇU", "name": "METALGRAFICA IGUACU SA" },
+  { "id": "MTIG4", "shortName": "IGUAÇU", "name": "METALGRAFICA IGUACU SA" },
+  {
+    "id": "MTRE3",
+    "shortName": "MITRE REALTY",
+    "name": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "MTSA4",
+    "shortName": "METISA",
+    "name": "METISA METALÚRGICA TIMBOENSE SA"
+  },
+  {
+    "id": "MULT3",
+    "shortName": "Multiplan",
+    "name": "MULTIPLAN EMP. IMOBILIARIOS S/A"
+  },
+  { "id": "MWET3", "shortName": "WETZEL S.A.", "name": "WETZEL S.A." },
+  { "id": "MWET4", "shortName": "WETZEL S.A.", "name": "WETZEL S.A." },
+  { "id": "MYPK3", "shortName": "IOCHPE-MAXION", "name": "IOCHPE-MAXION SA" },
+  { "id": "MYPK4", "shortName": "IOCHPE-MAXION", "name": "IOCHPE-MAXION SA" },
+  {
+    "id": "NAFG3",
+    "shortName": "NADIR FIGUEIREDO",
+    "name": "NADIR FIGUEIREDO IND E COM SA"
+  },
+  {
+    "id": "NAFG4",
+    "shortName": "NADIR FIGUEIREDO",
+    "name": "NADIR FIGUEIREDO IND E COM SA"
+  },
+  {
+    "id": "NATU3",
+    "shortName": "NATURA COSMETICOS SA",
+    "name": "NATURA COSMETICOS SA"
+  },
+  { "id": "NEOE3", "shortName": "NEOENERGIA", "name": "NEOENERGIA S.A." },
+  {
+    "NETC3": "NET SERVIÇOS DE COMUNICAÇÃO S.A.",
+    "name": "NET SERVIÇOS DE COMUNICAÇÃO S.A."
+  },
+  {
+    "NETC4": "NET SERVIÇOS DE COMUNICAÇÃO S.A.",
+    "name": "NET SERVIÇOS DE COMUNICAÇÃO S.A."
+  },
+  {
+    "id": "NGRD3",
+    "shortName": "NEOGRID",
+    "name": "NEOGRID PARTICIPACOES S.A."
+  },
+  {
+    "id": "NORD3",
+    "shortName": "NORDON INDS METALURGICAS SA",
+    "name": "NORDON INDS METALURGICAS SA"
+  },
+  {
+    "id": "NTCO3",
+    "shortName": "GRUPO NATURA",
+    "name": "NATURA &CO HOLDING S.A."
+  },
+  {
+    "id": "NUTR3",
+    "shortName": "NUTRIPLANT",
+    "name": "NUTRIPLANT INDÚSTRIA E COMÉRCIO S/A"
+  },
+  {
+    "id": "ODER3",
+    "shortName": "CONSERVAS ODERICH SA",
+    "name": "CONSERVAS ODERICH SA"
+  },
+  {
+    "id": "ODER4",
+    "shortName": "CONSERVAS ODERICH SA",
+    "name": "CONSERVAS ODERICH SA"
+  },
+  { "id": "ODPV3", "shortName": "ODONTOPREV", "name": "ODONTOPREV S.A." },
+  {
+    "id": "OFSA3",
+    "shortName": "OUROFINO S/A",
+    "name": "OURO FINO SAUDE ANIMAL PARTICIPACOES S.A."
+  },
+  {
+    "id": "OGXP3",
+    "shortName": "OGX",
+    "name": "ÓLEO E GÁS PARTICIPAÇÕES S.A."
+  },
+  { "id": "OIBR3", "shortName": "OI", "name": "OI S.A." },
+  { "id": "OIBR4", "shortName": "OI", "name": "OI S.A." },
+  { "id": "OMGE3", "shortName": "OMEGA GER", "name": "OMEGA GERAÇÃO S.A." },
+  {
+    "OSAO4": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A",
+    "name": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A"
+  },
+  { "id": "OSXB3", "shortName": "OSX BRASIL", "name": "OSX BRASIL S.A." },
+  {
+    "id": "PALF11",
+    "shortName": "CPFL",
+    "name": "COMPANHIA PAULISTA DE FORCA LUZ - CPFL"
+  },
+  {
+    "id": "PALF3",
+    "shortName": "CPFL",
+    "name": "COMPANHIA PAULISTA DE FORCA LUZ - CPFL"
+  },
+  {
+    "id": "PALF5",
+    "shortName": "CPFL",
+    "name": "COMPANHIA PAULISTA DE FORCA LUZ - CPFL"
+  },
+  {
+    "id": "PARC3",
+    "shortName": "WIZ S.A.",
+    "name": "WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A."
+  },
+  {
+    "id": "PARD3",
+    "shortName": "IHPARDINI",
+    "name": "INSTITUTO HERMES PARDINI S.A."
+  },
+  { "id": "PATI3", "shortName": "PANATLANTICA", "name": "PANATLANTICA SA" },
+  { "id": "PATI4", "shortName": "PANATLANTICA", "name": "PANATLANTICA SA" },
+  {
+    "id": "PCAR3",
+    "shortName": "PÃO DE AÇÚCAR",
+    "name": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO"
+  },
+  {
+    "id": "PCAR4",
+    "shortName": "PÃO DE AÇÚCAR",
+    "name": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO"
+  },
+  {
+    "id": "PCAR5",
+    "shortName": "PÃO DE AÇÚCAR",
+    "name": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO"
+  },
+  {
+    "id": "PDGR3",
+    "shortName": "PDG REALT",
+    "name": "PDG REALTY S.A. EMPREEND E PARTICIPACOES"
+  },
+  { "id": "PDTC3", "shortName": "PADTEC", "name": "PADTEC HOLDING S.A." },
+  {
+    "PEAB3": "CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA",
+    "name": "CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA"
+  },
+  {
+    "PEAB4": "CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA",
+    "name": "CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA"
+  },
+  {
+    "PEFX3": "PETROFLEX INDÚSTRIA E COMÉRCIO S.A",
+    "name": "PETROFLEX INDÚSTRIA E COMÉRCIO S.A."
+  },
+  {
+    "PEFX5": "PETROFLEX INDÚSTRIA E COMÉRCIO S.A",
+    "name": "PETROFLEX INDÚSTRIA E COMÉRCIO S.A."
+  },
+  {
+    "id": "PETR3",
+    "shortName": "PETROBRAS",
+    "name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS"
+  },
+  {
+    "id": "PETR4",
+    "shortName": "PETROBRAS",
+    "name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS"
+  },
+  {
+    "id": "PETZ3",
+    "shortName": "PETZ",
+    "name": "PET CENTER COMERCIO E PARTICIPACOES S.A."
+  },
+  {
+    "id": "PFRM3",
+    "shortName": "PROFARMA",
+    "name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A."
+  },
+  {
+    "id": "PGMN3",
+    "shortName": "PAGUE MENOS",
+    "name": "EMPREENDIMENTOS PAGUE MENOS S.A."
+  },
+  { "id": "PINE3", "shortName": "Pine", "name": "BANCO PINE S/A" },
+  { "id": "PINE4", "shortName": "Pine", "name": "BANCO PINE S/A" },
+  {
+    "id": "PITI4",
+    "shortName": "AV. DR CHUCRI ZAIDAN, 920 - 16§ ANDAR",
+    "name": "LF TEL SA"
+  },
+  {
+    "PLAS3": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A",
+    "name": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A"
+  },
+  {
+    "id": "PLDN4",
+    "shortName": "POLIALDEN",
+    "name": "POLIALDEN PETROQUIMICA SA"
+  },
+  {
+    "PLIM4": "NET SERVIÇOS DE COMUNICAÇÃO S.A.",
+    "name": "NET SERVIÇOS DE COMUNICAÇÃO S.A."
+  },
+  {
+    "id": "PLPL3",
+    "shortName": "PLANOEPLANO",
+    "name": "PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A."
+  },
+  {
+    "id": "PLTO5",
+    "shortName": "POLITENO IND E COMERCIO S.A.",
+    "name": "POLITENO IND E COMERCIO SA"
+  },
+  {
+    "id": "PLTO6",
+    "shortName": "POLITENO IND E COMERCIO S.A.",
+    "name": "POLITENO IND E COMERCIO SA"
+  },
+  {
+    "id": "PMAM3",
+    "shortName": "PARANAPANEMA S.A.",
+    "name": "PARANAPANEMA SA"
+  },
+  {
+    "id": "PMAM4",
+    "shortName": "PARANAPANEMA S.A.",
+    "name": "PARANAPANEMA SA"
+  },
+  { "id": "PMET3", "shortName": "PRO METALURG", "name": "PRÓ METALURGIA S.A." },
+  { "id": "PMET5", "shortName": "PRO METALURG", "name": "PRÓ METALURGIA S.A." },
+  { "id": "PMET6", "shortName": "PRO METALURG", "name": "PRÓ METALURGIA S.A." },
+  { "id": "PNOR5", "shortName": "PRONOR", "name": "PRONOR PETROQUIMICA SA" },
+  { "id": "PNOR6", "shortName": "PRONOR", "name": "PRONOR PETROQUIMICA SA" },
+  {
+    "id": "PNVL3",
+    "shortName": "PANVEL FARMÁCIAS",
+    "name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS"
+  },
+  {
+    "id": "PNVL4",
+    "shortName": "PANVEL FARMÁCIAS",
+    "name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS"
+  },
+  { "id": "POMO3", "shortName": "MARCOPOLO", "name": "MARCOPOLO SA" },
+  { "id": "POMO4", "shortName": "MARCOPOLO", "name": "MARCOPOLO SA" },
+  {
+    "id": "POPR4",
+    "shortName": "POLIPROPILENO S.A.",
+    "name": "POLIPROPILENO SA"
+  },
+  {
+    "PORP4": "POLIPROPILENO PARTICIPAÇÕES S.A.",
+    "name": "POLIPROPILENO PARTICIPACOES S.A."
+  },
+  {
+    "id": "POSI3",
+    "shortName": "POSITIVO INF",
+    "name": "POSITIVO INFORMATICA S.A."
+  },
+  {
+    "id": "POWE3",
+    "shortName": "FOCUS ON",
+    "name": "FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A"
+  },
+  {
+    "id": "PQUN3",
+    "shortName": "PETROQUIMICA UNIAO S.A.",
+    "name": "PETROQUIMICA UNIAO SA"
+  },
+  {
+    "id": "PQUN4",
+    "shortName": "PETROQUIMICA UNIAO S.A.",
+    "name": "PETROQUIMICA UNIAO SA"
+  },
+  { "id": "PRBC3", "shortName": "Parana", "name": "PARANA BANCO S.A." },
+  { "id": "PRBC4", "shortName": "Parana", "name": "PARANA BANCO S.A." },
+  { "id": "PRGA4", "shortName": "BRF Foods", "name": "BRF Foods" },
+  { "id": "PRIO3", "shortName": "PETRORIO", "name": "PETRO RIO S.A." },
+  { "id": "PRML3", "shortName": "PRUMO", "name": "PRUMO LOGÍSTICA S.A." },
+  {
+    "id": "PRNR3",
+    "shortName": "PRINER",
+    "name": "PRINER SERVIÇOS INDUSTRIAIS S.A."
+  },
+  {
+    "id": "PRTX3",
+    "shortName": "PORTX",
+    "name": "CENTENNIAL ASSET PARTICIP. SUDESTE S.A."
+  },
+  {
+    "id": "PRVI3",
+    "shortName": "Providencia",
+    "name": "COMPANHIA PROVIDENCIA IND E COMERCIO"
+  },
+  { "id": "PSSA3", "shortName": "PORTO SEGURO SA", "name": "PORTO SEGURO SA" },
+  { "id": "PTBL3", "shortName": "PORTOBELLO S/A", "name": "PBG S/A" },
+  { "id": "PTBL4", "shortName": "PORTOBELLO S/A", "name": "PBG S/A" },
+  {
+    "id": "PTIP3",
+    "shortName": "IPIRANGA PETROQUIMICA SA",
+    "name": "IPIRANGA PETROQUIMICA SA"
+  },
+  {
+    "id": "PTIP4",
+    "shortName": "IPIRANGA PETROQUIMICA SA",
+    "name": "IPIRANGA PETROQUIMICA SA"
+  },
+  {
+    "id": "PTNT3",
+    "shortName": "PETTENATI",
+    "name": "PETTENATI SA IND TEXTIL"
+  },
+  {
+    "id": "PTNT4",
+    "shortName": "PETTENATI",
+    "name": "PETTENATI SA IND TEXTIL"
+  },
+  { "id": "PTPA3", "shortName": "PETROPAR SA", "name": "PETROPAR SA" },
+  { "id": "PTPA4", "shortName": "PETROPAR SA", "name": "PETROPAR SA" },
+  {
+    "id": "PTQS4",
+    "shortName": "PETROQUISA",
+    "name": "PETROBRAS QUÍMICA S.A.- PETROQUISA"
+  },
+  {
+    "id": "QGEP3",
+    "shortName": "ENAUTA PART",
+    "name": "ENAUTA PARTICIPAÇÕES S.A."
+  },
+  { "id": "QUAL3", "shortName": "QUALICORP", "name": "QUALICORP S.A." },
+  { "id": "RADL3", "shortName": "RAIADROGASIL", "name": "RAIA DROGASIL S.A." },
+  { "id": "RAIA3", "shortName": "RAIA", "name": "RAIA S.A." },
+  { "id": "RAIL3", "shortName": "RUMO S.A.", "name": "RUMO S.A." },
+  { "id": "RANI3", "shortName": "CELULOSE IRANI", "name": "CELULOSE IRANI SA" },
+  { "id": "RANI4", "shortName": "CELULOSE IRANI", "name": "CELULOSE IRANI SA" },
+  {
+    "RAPT3": "RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES",
+    "name": "RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES"
+  },
+  {
+    "RAPT4": "RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES",
+    "name": "RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES"
+  },
+  { "id": "RCSL4", "shortName": "RECRUSUL", "name": "RECRUSUL SA" },
+  {
+    "id": "RCTB31",
+    "shortName": "TELEBRAS",
+    "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS"
+  },
+  {
+    "id": "RCTB33",
+    "shortName": "TELEBRAS",
+    "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS"
+  },
+  {
+    "id": "RCTB41",
+    "shortName": "TELEBRAS",
+    "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS"
+  },
+  {
+    "id": "RCTB42",
+    "shortName": "TELEBRAS",
+    "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS"
+  },
+  { "id": "RDCD3", "shortName": "Redecard", "name": "REDECARD S.A." },
+  {
+    "id": "RDNI3",
+    "shortName": "RNI",
+    "name": "RNI NEGÓCIOS IMOBILIÁRIOS S.A."
+  },
+  { "id": "RDOR3", "shortName": "REDE D OR", "name": "Rede DOr São Luiz S.A." },
+  { "id": "RDTR3", "shortName": "REDENTOR", "name": "REDENTOR ENERGIA S.A." },
+  {
+    "REDE3": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A.",
+    "name": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A."
+  },
+  {
+    "REDE4": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A.",
+    "name": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A."
+  },
+  {
+    "id": "REEM4",
+    "shortName": "RHEEM EMPRS",
+    "name": "RIMET EMPREEND. INDS. E COMERCIAIS S/A"
+  },
+  {
+    "id": "RENT3",
+    "shortName": "LOCALIZA RENT A CAR",
+    "name": "LOCALIZA RENT A CAR SA"
+  },
+  {
+    "id": "REPA3",
+    "shortName": "ELECTROLUX",
+    "name": "ELECTROLUX DO BRASIL SA"
+  },
+  {
+    "id": "REPA4",
+    "shortName": "ELECTROLUX",
+    "name": "ELECTROLUX DO BRASIL SA"
+  },
+  {
+    "id": "RGEG3",
+    "shortName": "RGE - RIO GRANDE ENERGIA",
+    "name": "RIO GRANDE ENERGIA SA"
+  },
+  { "id": "RHDS3", "shortName": "M G POLIEST", "name": "M G POLIESTER S.A." },
+  { "id": "RHDS4", "shortName": "M G POLIEST", "name": "M G POLIESTER S.A." },
+  {
+    "id": "RIPI3",
+    "shortName": "REFINARIA DE PETRÓLEO IPIRANGA SA",
+    "name": "REFINARIA PET IPIRANGA SA"
+  },
+  {
+    "id": "RIPI4",
+    "shortName": "REFINARIA DE PETRÓLEO IPIRANGA SA",
+    "name": "REFINARIA PET IPIRANGA SA"
+  },
+  { "id": "RJCP3", "shortName": "RJCP EQUITY", "name": "RJCP EQUITY S.A." },
+  { "id": "RLOG3", "shortName": "COSAN LOG", "name": "COSAN LOGISTICA S.A." },
+  { "id": "RNAR3", "shortName": "POMIFRUTAS", "name": "POMIFRUTAS S/A" },
+  { "id": "RNEW11", "shortName": "RENOVA", "name": "RENOVA ENERGIA S.A." },
+  { "id": "RNEW3", "shortName": "RENOVA", "name": "RENOVA ENERGIA S.A." },
+  { "id": "RNEW4", "shortName": "RENOVA", "name": "RENOVA ENERGIA S.A." },
+  {
+    "id": "RNPT3",
+    "shortName": "RENNER PARTICIPAÇÕES S/A",
+    "name": "RENNER PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "RNPT4",
+    "shortName": "RENNER PARTICIPAÇÕES S/A",
+    "name": "RENNER PARTICIPAÇÕES SA"
+  },
+  { "id": "ROMI3", "shortName": "ROMI", "name": "INDS ROMI SA" },
+  { "id": "ROMI4", "shortName": "ROMI", "name": "INDS ROMI SA" },
+  { "id": "RPAD3", "shortName": "ALFA HOLDINGS", "name": "ALFA HOLDINGS SA" },
+  { "id": "RPAD5", "shortName": "ALFA HOLDINGS", "name": "ALFA HOLDINGS SA" },
+  { "id": "RPAD6", "shortName": "ALFA HOLDINGS", "name": "ALFA HOLDINGS SA" },
+  {
+    "RPMG3": "REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A",
+    "name": "REFINARIA PET MANGUINHOS SA"
+  },
+  {
+    "RPMG4": "REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A",
+    "name": "REFINARIA PET MANGUINHOS SA"
+  },
+  {
+    "id": "RPSA4",
+    "shortName": "RIPASA",
+    "name": "RIPASA SA CELULOSE E PAPEL"
+  },
+  {
+    "id": "RRRP3",
+    "shortName": "3R PETROLEUM",
+    "name": "3R PETROLEUM ÓLEO E GÁS S.A"
+  },
+  {
+    "id": "RSID3",
+    "shortName": "ROSSI RESIDENCIAL",
+    "name": "ROSSI RESIDENCIAL SA"
+  },
+  {
+    "id": "RSIP3",
+    "shortName": "RASIP AGRO PASTORIL",
+    "name": "RASIP AGRO PASTORIL SA"
+  },
+  {
+    "id": "RSIP4",
+    "shortName": "RASIP AGRO PASTORIL",
+    "name": "RASIP AGRO PASTORIL SA"
+  },
+  {
+    "id": "RSUL4",
+    "shortName": "METALURGICA RIOSULENSE S/A",
+    "name": "METALURGICA RIOSULENSE SA"
+  },
+  {
+    "id": "RUMO3",
+    "shortName": "RUMO LOG",
+    "name": "RUMO LOGISTICA OPERADORA MULTIMODAL S.A."
+  },
+  {
+    "id": "SALM3",
+    "shortName": "SEARA ALIMENTOS",
+    "name": "SEARA ALIMENTOS SA"
+  },
+  {
+    "id": "SALM4",
+    "shortName": "SEARA ALIMENTOS",
+    "name": "SEARA ALIMENTOS SA"
+  },
+  { "id": "SANB11", "shortName": "SANTANDER", "name": "BANCO SANTANDER S.A." },
+  { "id": "SANB3", "shortName": "SANTANDER", "name": "BANCO SANTANDER S.A." },
+  { "id": "SANB4", "shortName": "SANTANDER", "name": "BANCO SANTANDER S.A." },
+  {
+    "id": "SAPR11",
+    "shortName": "SANEPAR",
+    "name": "CIA. DE SANEAMENTO DO PARANÁ - SANEPAR"
+  },
+  {
+    "id": "SAPR3",
+    "shortName": "SANEPAR",
+    "name": "CIA. DE SANEAMENTO DO PARANÁ - SANEPAR"
+  },
+  {
+    "id": "SAPR4",
+    "shortName": "SANEPAR",
+    "name": "CIA. DE SANEAMENTO DO PARANÁ - SANEPAR"
+  },
+  {
+    "id": "SASG3",
+    "shortName": "SUL AMERICA SEGUROS",
+    "name": "SUL AMERICA CIA NACL SEGUROS"
+  },
+  {
+    "id": "SBSP3",
+    "shortName": "SABESP",
+    "name": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO"
+  },
+  {
+    "SCAR3": "SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A.",
+    "name": "SÃO CARLOS EMPREENDS E PARTICIPAÇÕES S.A"
+  },
+  {
+    "SCAR4": "SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A.",
+    "name": "SÃO CARLOS EMPREENDS E PARTICIPAÇÕES S.A"
+  },
+  {
+    "id": "SCLO3",
+    "shortName": "SCHLOSSER TECIDOS",
+    "name": "CIA INDL SCHLOSSER SA"
+  },
+  {
+    "id": "SCLO4",
+    "shortName": "SCHLOSSER TECIDOS",
+    "name": "CIA INDL SCHLOSSER SA"
+  },
+  { "id": "SDIA3", "shortName": "SADIA", "name": "SADIA SA" },
+  { "id": "SDIA4", "shortName": "SADIA", "name": "SADIA SA" },
+  {
+    "SEBB11": "SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A",
+    "name": "SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A"
+  },
+  {
+    "SEBB3": "SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A",
+    "name": "SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A"
+  },
+  {
+    "SEBB4": "SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A",
+    "name": "SEB - SISTEMA EDUCACIONAL BRASILEIRO S/A"
+  },
+  { "id": "SEDU3", "shortName": "SOMOS EDUCA", "name": "SOMOS EDUCAÇÃO S.A." },
+  { "id": "SEER3", "shortName": "SER EDUCA", "name": "SER EDUCACIONAL S.A." },
+  { "id": "SEMP3", "shortName": "SEMP TOSHIBA", "name": "SEMP TOSHIBA SA" },
+  {
+    "id": "SEQL3",
+    "shortName": "SEQUOIA LOG",
+    "name": "SEQUOIA LOGISTICA E TRANSPORTES S.A"
+  },
+  { "id": "SFSA3", "shortName": "Sofisa", "name": "BANCO SOFISA SA" },
+  { "id": "SFSA4", "shortName": "Sofisa", "name": "BANCO SOFISA SA" },
+  { "id": "SGAS3", "shortName": "WLM", "name": "WLM INDÚSTRIA E COMÉRCIO S/A" },
+  { "id": "SGAS4", "shortName": "WLM", "name": "WLM INDÚSTRIA E COMÉRCIO S/A" },
+  {
+    "id": "SGEN3",
+    "shortName": "SERGEN",
+    "name": "SERGEN SERVS GERAIS DE ENG SA"
+  },
+  {
+    "id": "SGEN4",
+    "shortName": "SERGEN",
+    "name": "SERGEN SERVS GERAIS DE ENG SA"
+  },
+  {
+    "id": "SGPS3",
+    "shortName": "Springs",
+    "name": "SPRINGS GLOBAL PARTICIPAÇÕES S/A"
+  },
+  {
+    "id": "SHOW3",
+    "shortName": "TIME FOR FUN",
+    "name": "T4F Entretenimento S.A."
+  },
+  { "id": "SHUL4", "shortName": "SCHULZ", "name": "SCHULZ SA" },
+  { "id": "SIMH3", "shortName": "SIMPAR", "name": "SIMPAR S.A." },
+  {
+    "id": "SJOS3",
+    "shortName": "SÃO JOSÉ",
+    "name": "FIACAO TECELAGEM SAO JOSE SA"
+  },
+  {
+    "id": "SJOS4",
+    "shortName": "SÃO JOSÉ",
+    "name": "FIACAO TECELAGEM SAO JOSE SA"
+  },
+  { "id": "SLCE3", "shortName": "SLC Agricola", "name": "SLC AGRICOLA SA" },
+  {
+    "id": "SLCP3",
+    "shortName": "SULACAP",
+    "name": "SUL AMERICA CAPITALIZACAO S.A."
+  },
+  {
+    "id": "SLED3",
+    "shortName": "EDITORA SARAIVA",
+    "name": "SARAIVA SA LIVREIROS EDITORES"
+  },
+  {
+    "id": "SLED4",
+    "shortName": "EDITORA SARAIVA",
+    "name": "SARAIVA SA LIVREIROS EDITORES"
+  },
+  { "id": "SMLE3", "shortName": "SMILES", "name": "SMILES S.A." },
+  { "id": "SMLS3", "shortName": "SMILES", "name": "SMILES FIDELIDADE S.A." },
+  { "id": "SMTO3", "shortName": "SAO MARTINHO", "name": "SAO MARTINHO S.A." },
+  { "id": "SNSL3", "shortName": "SINQIA", "name": "SINQIA S.A." },
+  {
+    "SNSY5": "SANSUY S.A. INDÚSTRIA DE PLÁSTICOS",
+    "name": "SANSUY SA INDÚSTRIA DE PLASTICOS"
+  },
+  {
+    "id": "SOMA3",
+    "shortName": "GRUPO SOMA",
+    "name": "GRUPO DE MODA SOMA S.A."
+  },
+  {
+    "id": "SOND3",
+    "shortName": "SONDOTECNICA S/A.",
+    "name": "SONDOTECNICA ENGENHARIA DE SOLOS S/A."
+  },
+  {
+    "id": "SOND5",
+    "shortName": "SONDOTECNICA S/A.",
+    "name": "SONDOTECNICA ENGENHARIA DE SOLOS S/A."
+  },
+  {
+    "id": "SOND6",
+    "shortName": "SONDOTECNICA S/A.",
+    "name": "SONDOTECNICA ENGENHARIA DE SOLOS S/A."
+  },
+  { "id": "SPRI3", "shortName": "SPRINGER", "name": "SPRINGER SA" },
+  { "id": "SPRI5", "shortName": "SPRINGER", "name": "SPRINGER SA" },
+  { "id": "SPRI6", "shortName": "SPRINGER", "name": "SPRINGER SA" },
+  { "id": "SQIA3", "shortName": "SINQIA", "name": "SINQIA S.A." },
+  {
+    "id": "SSBR3",
+    "shortName": "ALIANSCSONAE",
+    "name": "ALIANSCE SONAE SHOPPING CENTERS S.A."
+  },
+  {
+    "id": "STBP11",
+    "shortName": "SBPAR",
+    "name": "SANTOS BRASIL PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "STBP3",
+    "shortName": "SBPAR",
+    "name": "SANTOS BRASIL PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "STLB3",
+    "shortName": "ADVANCED-DH",
+    "name": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A."
+  },
+  { "id": "STRP4", "shortName": "STAROUP", "name": "BOTUCATU TÊXTIL S.A." },
+  { "id": "SUBA3", "shortName": "", "name": "SUBMARINO S/A" },
+  { "id": "SULA11", "shortName": "Sul America", "name": "SUL AMERICA S/A" },
+  { "id": "SULA3", "shortName": "Sul America", "name": "SUL AMERICA S/A" },
+  { "id": "SULA4", "shortName": "Sul America", "name": "SUL AMERICA S/A" },
+  {
+    "id": "SULT3",
+    "shortName": "CONSTRUTORA SULTEPA S/A",
+    "name": "CONST SULTEPA SA"
+  },
+  {
+    "id": "SULT4",
+    "shortName": "CONSTRUTORA SULTEPA S/A",
+    "name": "CONST SULTEPA SA"
+  },
+  {
+    "id": "SUZA4",
+    "shortName": "SUZANO HOLDING S.A.",
+    "name": "SUZANO HOLDING S.A. (EX-NEMOFEFFER S.A.)"
+  },
+  {
+    "id": "SUZB3",
+    "shortName": "Suzano Papel",
+    "name": "SUZANO PAPEL E CELULOSE S.A."
+  },
+  {
+    "id": "SUZB5",
+    "shortName": "Suzano Papel",
+    "name": "SUZANO PAPEL E CELULOSE S.A."
+  },
+  {
+    "id": "SUZB6",
+    "shortName": "Suzano Papel",
+    "name": "SUZANO PAPEL E CELULOSE S.A."
+  },
+  {
+    "id": "SWET3",
+    "shortName": "ADVANCED-DH",
+    "name": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A."
+  },
+  {
+    "id": "SZPQ4",
+    "shortName": "SUZANO PETROQUIMICA S.A.",
+    "name": "SUZANO PETROQUIMICA S.A."
+  },
+  {
+    "id": "TAEE11",
+    "shortName": "TAESA",
+    "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A."
+  },
+  {
+    "id": "TAEE3",
+    "shortName": "TAESA",
+    "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A."
+  },
+  {
+    "id": "TAEE4",
+    "shortName": "TAESA",
+    "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A."
+  },
+  { "id": "TAMM3", "shortName": "TAM", "name": "TAM S.A." },
+  { "id": "TAMM4", "shortName": "TAM", "name": "TAM S.A." },
+  { "id": "TANC4", "shortName": "TAM", "name": "TAM S.A." },
+  {
+    "id": "TARP11",
+    "shortName": "TARPON",
+    "name": "TARPON INVESTMENT GROUP LTD."
+  },
+  { "id": "TASA3", "shortName": "TAURUS ARMAS", "name": "TAURUS ARMAS S.A." },
+  { "id": "TASA4", "shortName": "TAURUS ARMAS", "name": "TAURUS ARMAS S.A." },
+  {
+    "id": "TBLE3",
+    "shortName": "ENGIE BRASIL",
+    "name": "ENGIE BRASIL ENERGIA S.A."
+  },
+  {
+    "id": "TBLE5",
+    "shortName": "ENGIE BRASIL",
+    "name": "ENGIE BRASIL ENERGIA S.A."
+  },
+  {
+    "id": "TBLE6",
+    "shortName": "ENGIE BRASIL",
+    "name": "ENGIE BRASIL ENERGIA S.A."
+  },
+  { "id": "TCNO3", "shortName": "TECNOSOLO S/A", "name": "TECNOSOLO S/A" },
+  { "id": "TCNO4", "shortName": "TECNOSOLO S/A", "name": "TECNOSOLO S/A" },
+  {
+    "TCOC3": "TELE CENTRO OESTE CELULAR PARTICIP. S/A",
+    "name": "TCO CELULAR PARTICIPAÇÕES S/A"
+  },
+  {
+    "TCOC4": "TELE CENTRO OESTE CELULAR PARTICIP. S/A",
+    "name": "TCO CELULAR PARTICIPAÇÕES S/A"
+  },
+  { "id": "TCSA3", "shortName": "TECNISA", "name": "TECNISA S.A." },
+  {
+    "id": "TCSL4",
+    "shortName": "TIM PARTICIPAÇÕES S.A.",
+    "name": "TIM PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "TDBH3",
+    "shortName": "TELEFÔNICA EMPRESAS S.A",
+    "name": "TELEFONICA DATA BRASIL HOLDING SA"
+  },
+  {
+    "id": "TDBH4",
+    "shortName": "TELEFÔNICA EMPRESAS S.A",
+    "name": "TELEFONICA DATA BRASIL HOLDING SA"
+  },
+  { "id": "TECN3", "shortName": "TECHNOS", "name": "TECHNOS S.A." },
+  { "id": "TEFC11", "shortName": "TELEFÓNICA", "name": "TELEFÓNICA S.A." },
+  {
+    "id": "TEKA3",
+    "shortName": "TEKA S.A.",
+    "name": "TEKA TECELAGEM KUEHNRICH SA"
+  },
+  {
+    "id": "TEKA4",
+    "shortName": "TEKA S.A.",
+    "name": "TEKA TECELAGEM KUEHNRICH SA"
+  },
+  {
+    "id": "TELB3",
+    "shortName": "TELEBRAS",
+    "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS"
+  },
+  {
+    "id": "TELB4",
+    "shortName": "TELEBRAS",
+    "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS"
+  },
+  { "id": "TEMP3", "shortName": "TEMPO PART", "name": "TEMPO PARTICIPACOES" },
+  { "id": "TEND3", "shortName": "Tenda", "name": "CONSTRUTORA TENDA S/A" },
+  {
+    "id": "TENE5",
+    "shortName": "TECBLU",
+    "name": "TECBLU - TECELAGEM BLUMENAU S/A."
+  },
+  {
+    "id": "TENE7",
+    "shortName": "TECBLU",
+    "name": "TECBLU - TECELAGEM BLUMENAU S/A."
+  },
+  { "id": "TERI3", "shortName": "TEREOS", "name": "TEREOS INTERNACIONAL S.A." },
+  {
+    "id": "TESA3",
+    "shortName": "TERRA SANTA",
+    "name": "TERRA SANTA AGRO S.A."
+  },
+  {
+    "id": "TFCO4",
+    "shortName": "TRACK FIELD",
+    "name": "TRACK & FIELD CO S.A."
+  },
+  { "id": "TGMA3", "shortName": "Tegma", "name": "TEGMA GESTÃO LOGÍSTICA SA" },
+  {
+    "id": "TIBR3",
+    "shortName": "CRISTAL",
+    "name": "TRONOX PIGMENTOS DO BRASIL S.A."
+  },
+  {
+    "id": "TIBR5",
+    "shortName": "CRISTAL",
+    "name": "TRONOX PIGMENTOS DO BRASIL S.A."
+  },
+  {
+    "id": "TIBR6",
+    "shortName": "CRISTAL",
+    "name": "TRONOX PIGMENTOS DO BRASIL S.A."
+  },
+  {
+    "id": "TIET11",
+    "shortName": "AES TIETE E",
+    "name": "AES TIETE ENERGIA SA"
+  },
+  { "id": "TIET3", "shortName": "AES TIETE E", "name": "AES TIETE ENERGIA SA" },
+  { "id": "TIET4", "shortName": "AES TIETE E", "name": "AES TIETE ENERGIA SA" },
+  {
+    "id": "TIMP3",
+    "shortName": "TIM PARTICIPAÇÕES S.A.",
+    "name": "TIM PARTICIPAÇÕES S.A."
+  },
+  { "id": "TIMS3", "shortName": "TIM", "name": "TIM S.A." },
+  {
+    "id": "TKNO4",
+    "shortName": "TEKNO",
+    "name": "TEKNO S.A. CONSTR.INDÚSTRIA E COMÉRCIO"
+  },
+  {
+    "TLCP3": "TELE LESTE CELULAR PARTICIPAÇÕES SA",
+    "name": "TELE LESTE CELULAR PARTICIPAÇÕES SA"
+  },
+  {
+    "TLCP4": "TELE LESTE CELULAR PARTICIPAÇÕES SA",
+    "name": "TELE LESTE CELULAR PARTICIPAÇÕES SA"
+  },
+  { "id": "TMAR3", "shortName": "TELEMAR", "name": "TELEMAR NORTE LESTE SA" },
+  { "id": "TMAR5", "shortName": "TELEMAR", "name": "TELEMAR NORTE LESTE SA" },
+  { "id": "TMAR6", "shortName": "TELEMAR", "name": "TELEMAR NORTE LESTE SA" },
+  {
+    "TMCP3": "TELEMIG CELULAR PARTICIPAÇÕES S.A.",
+    "name": "TELEMIG CELULAR PARTICIPAÇÕES S.A."
+  },
+  {
+    "TMCP4": "TELEMIG CELULAR PARTICIPAÇÕES S.A.",
+    "name": "TELEMIG CELULAR PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "TMGC11",
+    "shortName": "TELEMIG CELULAR",
+    "name": "TELEMIG CELULAR SA"
+  },
+  {
+    "id": "TMGC12",
+    "shortName": "TELEMIG CELULAR",
+    "name": "TELEMIG CELULAR SA"
+  },
+  {
+    "id": "TMGC13",
+    "shortName": "TELEMIG CELULAR",
+    "name": "TELEMIG CELULAR SA"
+  },
+  {
+    "id": "TMGC3",
+    "shortName": "TELEMIG CELULAR",
+    "name": "TELEMIG CELULAR SA"
+  },
+  {
+    "id": "TMGC7",
+    "shortName": "TELEMIG CELULAR",
+    "name": "TELEMIG CELULAR SA"
+  },
+  {
+    "id": "TNCP3",
+    "shortName": "AMAZÔNIA CELULAR",
+    "name": "TELE NORTE CELULAR PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "TNCP4",
+    "shortName": "AMAZÔNIA CELULAR",
+    "name": "TELE NORTE CELULAR PARTICIPAÇÕES SA"
+  },
+  {
+    "TNEP3": "TELE NORDESTE CELULAR PARTICIPAÇÕES S.A.",
+    "name": "TELE NORDESTE CELULAR PARTICIPAÇÕES SA"
+  },
+  {
+    "TNEP4": "TELE NORDESTE CELULAR PARTICIPAÇÕES S.A.",
+    "name": "TELE NORDESTE CELULAR PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "TNLP3",
+    "shortName": "TELEMAR",
+    "name": "TELE NORTE LESTE PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "TNLP4",
+    "shortName": "TELEMAR",
+    "name": "TELE NORTE LESTE PARTICIPAÇÕES SA"
+  },
+  { "id": "TOTS3", "shortName": "TOTVS", "name": "TOTVS S.A." },
+  { "id": "TOYB3", "shortName": "TEC TOY", "name": "TEC TOY S/A" },
+  { "id": "TOYB4", "shortName": "TEC TOY", "name": "TEC TOY S/A" },
+  {
+    "TPIS3": "TRIUNFO PARTICIPACOES SA",
+    "name": "TRIUNFO PARTICIPACOES E INVESTIMENTOS SA"
+  },
+  {
+    "id": "TPRC3",
+    "shortName": "TIM PARTICIPAÇÕES S.A.",
+    "name": "TIM PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "TPRC6",
+    "shortName": "TIM PARTICIPAÇÕES S.A.",
+    "name": "TIM PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "TRFO3",
+    "shortName": "TRAFO",
+    "name": "TRAFO EQUIPAMENTOS ELETRICOS S.A."
+  },
+  {
+    "id": "TRFO4",
+    "shortName": "TRAFO",
+    "name": "TRAFO EQUIPAMENTOS ELETRICOS S.A."
+  },
+  { "id": "TRIS3", "shortName": "Trisul", "name": "TRISUL S/A" },
+  { "id": "TROR3", "shortName": "TRORION", "name": "TRORION SA" },
+  { "id": "TROR4", "shortName": "TRORION", "name": "TRORION SA" },
+  {
+    "id": "TRPL3",
+    "shortName": "TRANSMISSÃO PAULISTA",
+    "name": "CTEEP-CIA TRANSM ENERGIA ELÉTR. PAULISTA"
+  },
+  {
+    "id": "TRPL4",
+    "shortName": "TRANSMISSÃO PAULISTA",
+    "name": "CTEEP-CIA TRANSM ENERGIA ELÉTR. PAULISTA"
+  },
+  {
+    "id": "TRPN3",
+    "shortName": "TARPON INV",
+    "name": "TARPON INVESTIMENTOS S.A."
+  },
+  {
+    "TSEP3": "TELE SUDESTE CELULAR PART SA",
+    "name": "TELE SUDESTE CELULAR PARTICIPAÇÕES SA"
+  },
+  {
+    "TSEP4": "TELE SUDESTE CELULAR PART SA",
+    "name": "TELE SUDESTE CELULAR PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "TSPP3",
+    "shortName": "VIVO PARTICIPAÇÕES",
+    "name": "VIVO PARTICIPAÇÕES S/A"
+  },
+  {
+    "id": "TSPP4",
+    "shortName": "VIVO PARTICIPAÇÕES",
+    "name": "VIVO PARTICIPAÇÕES S/A"
+  },
+  { "id": "TUPY3", "shortName": "TUPY", "name": "TUPY SA" },
+  { "id": "TUPY4", "shortName": "TUPY", "name": "TUPY SA" },
+  {
+    "id": "TVIT3",
+    "shortName": "TIVIT",
+    "name": "TIVIT TERC. DE PROC., SERV. E TEC. S.A."
+  },
+  { "id": "TXRX3", "shortName": "RENAUX", "name": "TEXTIL RENAUXVIEW S.A." },
+  { "id": "TXRX4", "shortName": "RENAUX", "name": "TEXTIL RENAUXVIEW S.A." },
+  {
+    "id": "UBBR11",
+    "shortName": "UNIBANCO SA",
+    "name": "UNIBANCO UNIAO BANCOS BRAS SA"
+  },
+  {
+    "id": "UBBR3",
+    "shortName": "UNIBANCO SA",
+    "name": "UNIBANCO UNIAO BANCOS BRAS SA"
+  },
+  {
+    "id": "UBBR4",
+    "shortName": "UNIBANCO SA",
+    "name": "UNIBANCO UNIAO BANCOS BRAS SA"
+  },
+  {
+    "id": "UCAS3",
+    "shortName": "UNICASA",
+    "name": "UNICASA INDÚSTRIA DE MÓVEIS S.A."
+  },
+  {
+    "UCOP4": "USINA COSTA PINTO S/A AÇÚCAR E ÁLCOOL",
+    "name": "USINA COSTA PINTO SA ACUC ALC"
+  },
+  {
+    "id": "UGPA3",
+    "shortName": "ULTRAPAR PARTICIPAÇÕES SA",
+    "name": "ULTRAPAR PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "UGPA4",
+    "shortName": "ULTRAPAR PARTICIPAÇÕES SA",
+    "name": "ULTRAPAR PARTICIPAÇÕES SA"
+  },
+  {
+    "id": "UNIP3",
+    "shortName": "UNIPAR PARTICIPAÇÕES S.A.",
+    "name": "UNIPAR PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "UNIP5",
+    "shortName": "UNIPAR PARTICIPAÇÕES S.A.",
+    "name": "UNIPAR PARTICIPAÇÕES S.A."
+  },
+  {
+    "id": "UNIP6",
+    "shortName": "UNIPAR PARTICIPAÇÕES S.A.",
+    "name": "UNIPAR PARTICIPAÇÕES S.A."
+  },
+  { "id": "UOLL4", "shortName": "UOL", "name": "UNIVERSO ONLINE SA" },
+  {
+    "id": "USIM3",
+    "shortName": "USIMINAS",
+    "name": "USINAS SIDERURGICAS DE MINAS GERAIS SA"
+  },
+  {
+    "id": "USIM5",
+    "shortName": "USIMINAS",
+    "name": "USINAS SIDERURGICAS DE MINAS GERAIS SA"
+  },
+  {
+    "id": "USIM6",
+    "shortName": "USIMINAS",
+    "name": "USINAS SIDERURGICAS DE MINAS GERAIS SA"
+  },
+  {
+    "id": "VAGR3",
+    "shortName": "TERRA SANTA",
+    "name": "TERRA SANTA AGRO S.A."
+  },
+  {
+    "id": "VAGV3",
+    "shortName": "SAVIRG",
+    "name": "S.A. (VIACAO AEREA-RIOGRANDENSE)"
+  },
+  {
+    "id": "VAGV4",
+    "shortName": "SAVIRG",
+    "name": "S.A. (VIACAO AEREA-RIOGRANDENSE)"
+  },
+  { "id": "VALE3", "shortName": "VALE", "name": "VALE S.A." },
+  { "id": "VALE5", "shortName": "VALE", "name": "VALE S.A." },
+  {
+    "id": "VAMO3",
+    "shortName": "VAMOS",
+    "name": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A."
+  },
+  {
+    "id": "VCPA4",
+    "shortName": "Fibria",
+    "name": "VOTORANTIM CELULOSE E PAPEL SA"
+  },
+  {
+    "id": "VGOR3",
+    "shortName": "VIGOR",
+    "name": "SA FABRICA PRODS ALIMCS VIGOR"
+  },
+  {
+    "id": "VGOR4",
+    "shortName": "VIGOR",
+    "name": "SA FABRICA PRODS ALIMCS VIGOR"
+  },
+  { "id": "VIGR3", "shortName": "VIGOR FOOD", "name": "VIGOR ALIMENTOS S.A." },
+  {
+    "id": "VINE3",
+    "shortName": "VICUNHA TEXTIL SA",
+    "name": "VICUNHA TEXTIL SA"
+  },
+  {
+    "id": "VINE5",
+    "shortName": "VICUNHA TEXTIL SA",
+    "name": "VICUNHA TEXTIL SA"
+  },
+  {
+    "id": "VIVA3",
+    "shortName": "VIVARA S.A.",
+    "name": "VIVARA PARTICIPAÇOES S.A"
+  },
+  {
+    "id": "VIVO3",
+    "shortName": "VIVO PARTICIPAÇÕES",
+    "name": "VIVO PARTICIPAÇÕES S/A"
+  },
+  {
+    "id": "VIVO4",
+    "shortName": "VIVO PARTICIPAÇÕES",
+    "name": "VIVO PARTICIPAÇÕES S/A"
+  },
+  {
+    "id": "VIVR3",
+    "shortName": "VIVER",
+    "name": "VIVER INCORPORADORA E CONSTRUTORA S.A."
+  },
+  {
+    "id": "VIVT3",
+    "shortName": "TELEF BRASIL",
+    "name": "TELEFÔNICA BRASIL S.A"
+  },
+  {
+    "id": "VIVT4",
+    "shortName": "TELEF BRASIL",
+    "name": "TELEFÔNICA BRASIL S.A"
+  },
+  {
+    "id": "VLID3",
+    "shortName": "VALID",
+    "name": "VALID SOLUÇÕES E SERV. SEG. MEIOS PAG. IDENT. S.A."
+  },
+  { "id": "VNET3", "shortName": "CIELO", "name": "CIELO S.A." },
+  {
+    "id": "VPSC3",
+    "shortName": "VPSC",
+    "name": "VARIG PARTIC. EM SERVIÇOS COMPLEMENTARES"
+  },
+  {
+    "id": "VPSC4",
+    "shortName": "VPSC",
+    "name": "VARIG PARTIC. EM SERVIÇOS COMPLEMENTARES"
+  },
+  {
+    "id": "VPTA3",
+    "shortName": "VPTA",
+    "name": "VARIG PARTICIPAÇÕES EM TRANSP AÉREOS S/A"
+  },
+  {
+    "id": "VPTA4",
+    "shortName": "VPTA",
+    "name": "VARIG PARTICIPAÇÕES EM TRANSP AÉREOS S/A"
+  },
+  {
+    "id": "VSPT3",
+    "shortName": "FERROVIA CENTRO-ATLÂNTICA S.A.",
+    "name": "FERROVIA CENTRO ATLANTICA SA"
+  },
+  {
+    "id": "VSPT4",
+    "shortName": "FERROVIA CENTRO-ATLÂNTICA S.A.",
+    "name": "FERROVIA CENTRO ATLANTICA SA"
+  },
+  {
+    "id": "VTLM3",
+    "shortName": "ADVANCED-DH",
+    "name": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A."
+  },
+  { "id": "VULC3", "shortName": "VULCABRAS S/A.", "name": "VULCABRAS SA" },
+  { "id": "VULC4", "shortName": "VULCABRAS S/A.", "name": "VULCABRAS SA" },
+  { "id": "VVAR11", "shortName": "VIAVAREJO", "name": "VIA VAREJO S.A." },
+  { "id": "VVAR3", "shortName": "VIAVAREJO", "name": "VIA VAREJO S.A." },
+  { "id": "VVAR4", "shortName": "VIAVAREJO", "name": "VIA VAREJO S.A." },
+  { "id": "VVAX3", "shortName": "VIVAX SA", "name": "VIVAX SA" },
+  { "id": "VVAX4", "shortName": "VIVAX SA", "name": "VIVAX SA" },
+  { "id": "WEGE3", "shortName": "WEG SA", "name": "WEG SA" },
+  { "id": "WEGE4", "shortName": "WEG SA", "name": "WEG SA" },
+  {
+    "id": "WEST3",
+    "shortName": "WESTWING",
+    "name": "WESTWING COMERCIO VAREJISTA S.A."
+  },
+  { "id": "WHRL3", "shortName": "WHIRLPOOL S.A.", "name": "WHIRLPOOL S.A." },
+  { "id": "WHRL4", "shortName": "WHIRLPOOL S.A.", "name": "WHIRLPOOL S.A." },
+  { "id": "WISA3", "shortName": "WIEST SA", "name": "WIEST SA" },
+  { "id": "WISA4", "shortName": "WIEST SA", "name": "WIEST SA" },
+  {
+    "id": "WIZS3",
+    "shortName": "WIZ S.A.",
+    "name": "WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A."
+  },
+  { "id": "WLMM3", "shortName": "WLM", "name": "WLM INDÚSTRIA E COMÉRCIO S/A" },
+  { "id": "WLMM4", "shortName": "WLM", "name": "WLM INDÚSTRIA E COMÉRCIO S/A" },
+  {
+    "id": "WMBY3",
+    "shortName": "WEMBLEY SOCIEDADE ANÔNIMA",
+    "name": "WEMBLEY SOCIEDADE ANÔNIMA"
+  },
+  { "id": "WSON33", "shortName": "Wilson Sons", "name": "WILSON SONS LIMITED" },
+  {
+    "id": "YDUQ3",
+    "shortName": "YDUQS PART",
+    "name": "ESTACIO PARTICIPACOES S.A."
+  }
+]
