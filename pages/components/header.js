@@ -14,7 +14,22 @@ const Header = () => {
               <b>Planilha Pit</b>
             </a>
           </div>
-          <div className="col-6 text-right"></div>
+          <div className="col-6 text-right">
+            <a
+              href="/about"
+              className="text-light mr-5"
+              style={{ textDecoration: "none" }}
+            >
+              Sobre
+            </a>
+            <a
+              href="/privacy"
+              className="text-light"
+              style={{ textDecoration: "none" }}
+            >
+              Política de privacidade
+            </a>
+          </div>
         </div>
       </div>
     </header>
