@@ -17,15 +17,15 @@ const EmptyState = () => {
       </div>
 
       <div className="d-grid gap-2 col-4 mx-auto mt-5">
-        <button
+        {/* <button
           className="btn btn-dark"
           data-toggle="modal"
           data-target="#stockModal"
         >
           Adicionar meu primeiro ativo
-        </button>
+        </button> */}
 
-        <button className="btn btn-link btn-sm text-dark">
+        <button className="btn btn-link btn-sm text-dark" disabled>
           Criar uma conta
         </button>
       </div>

@@ -9,14 +9,13 @@ const Welcome = () => {
       <div className="row">
         <div className="col-12 col-lg-3 pt-5">
           <h1>
-            Bem vindo à <b>Planilha Pit</b>!
+            Bem vindo ao <b>Planilha Pit</b>!
           </h1>
           <h4>A ferramenta que vai te ajudar a rebalancear sua carteira</h4>
 
           <p className="text-muted py-4">
-            Este é o resultado de uma ideia que nasceu com o propósito de ser
-            uma ferramenta para uso pessoal, mas agora ficou claro que pode
-            ajudar outras pessoas. Enfim, espero que curtam!
+            Ao utilizar o Planilha Pit você está ciente de que nenhuma
+            informação deste domínio deve ser considerada uma recomendação.
           </p>
 
           <div className="">

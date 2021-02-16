@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useRecoilState } from "recoil";
 import classNames from "classnames";
 
@@ -14,6 +14,16 @@ const Stocks = () => {
   const [showStockForm, setShowStockForm] = useState(true);
   const [tabIndex, setTabIndex] = useState(0);
   const [stocks] = useRecoilState(stockListState);
+
+  useEffect(() => {
+    if (
+      !confirm(
+        "Ao utilizar o Planilha Pit você está ciente de que nenhuma informação deste domínio deve ser considerada uma recomendação."
+      )
+    ) {
+      location.href = "/";
+    }
+  }, []);
 
   return (
     <div className="container">
