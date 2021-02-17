@@ -5,7 +5,7 @@ export default async (req, res) => {
     const symbol = req.query.symbol;
     const response = (
       await axios.get(
-        `https://api.hgbrasil.com/finance/stock_price?key=1c0aeaa5&symbol=${symbol}`
+        `https://api.hgbrasil.com/finance/stock_price?key=${process.env.HGB_API_KEY}&symbol=${symbol}`
       )
     ).data;
 
