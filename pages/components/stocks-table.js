@@ -25,30 +25,18 @@ const StocksTable = () => {
 
   return (
     <>
-      <div className="card card-body mt-3">
+      <div className="card card-body bg-dark text-light mt-3">
         <div className="row align-items-end font-weight-bold">
-          <div className="col-2">
-            <b>Ativo</b>
-          </div>
+          <div className="col-2">Ativo</div>
+          <div className="col-1 text-right">Nota</div>
+          <div className="col-1 text-right">Preço</div>
+          <div className="col-1 text-right">Quant atual</div>
+          <div className="col-2 text-right">Total atual</div>
+          <div className="col-2 text-right">Total ideal</div>
+          <div className="col-2 text-right">Quant ideal</div>
           <div className="col-1 text-right">
-            <b>Nota</b>
+            <FiXCircle size={18} style={{ marginRight: "12px" }} />
           </div>
-          <div className="col-1 text-right">
-            <b>Preço</b>
-          </div>
-          <div className="col-1 text-right">
-            <b>Quant atual</b>
-          </div>
-          <div className="col-2 text-right">
-            <b>Total atual</b>
-          </div>
-          <div className="col-2 text-right">
-            <b>Total ideal</b>
-          </div>
-          <div className="col-2 text-right">
-            <b>Quant ideal</b>
-          </div>
-          <div className="col-1 text-right"></div>
         </div>
       </div>
 

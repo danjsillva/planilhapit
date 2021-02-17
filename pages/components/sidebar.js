@@ -157,7 +157,7 @@ const Sidebar = ({ tabIndex, onSetTabIndex }) => {
             data-bs-display="static"
             aria-expanded="false"
           >
-            <FiFileText className="mr-1" />
+            <FiFileText className="mr-2 ml-3" />
           </button>
           <ul className="dropdown-menu dropdown-menu-right dropdown-menu-dark">
             <li>
