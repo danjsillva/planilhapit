@@ -12,23 +12,23 @@ const EmptyState = () => {
       <div className="text-muted">
         Comece atualizado o seu saldo e depois adicione o seu primeiro ativo.
       </div>
-      <div className="text-muted">
+      {/* <div className="text-muted">
         Que tal criar uma conta e sincronizar os seus dados?
       </div>
 
       <div className="d-grid gap-2 col-4 mx-auto mt-5">
-        {/* <button
+        <button
           className="btn btn-dark"
           data-toggle="modal"
           data-target="#stockModal"
         >
           Adicionar meu primeiro ativo
-        </button> */}
+        </button>
 
         <button className="btn btn-link btn-sm text-dark" disabled>
           Criar uma conta
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };

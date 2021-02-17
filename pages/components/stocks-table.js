@@ -27,16 +27,16 @@ const StocksTable = () => {
     <>
       <div className="card card-body mt-3">
         <div className="row align-items-end font-weight-bold">
-          <div className="col-1">
+          <div className="col-2">
             <b>Ativo</b>
           </div>
           <div className="col-1 text-right">
             <b>Nota</b>
           </div>
-          <div className="col-2 text-right">
+          <div className="col-1 text-right">
             <b>Preço</b>
           </div>
-          <div className="col-2 text-right">
+          <div className="col-1 text-right">
             <b>Quant atual</b>
           </div>
           <div className="col-2 text-right">
@@ -45,7 +45,7 @@ const StocksTable = () => {
           <div className="col-2 text-right">
             <b>Total ideal</b>
           </div>
-          <div className="col-1 text-right">
+          <div className="col-2 text-right">
             <b>Quant ideal</b>
           </div>
           <div className="col-1 text-right"></div>
@@ -55,7 +55,7 @@ const StocksTable = () => {
       {stocksFull.map((stock) => (
         <div key={stock.symbol} className="card card-body mt-1">
           <div className="row align-items-center">
-            <div className="col-1">
+            <div className="col-2">
               <b>{stock.symbol}</b>
               <small className="d-block text-truncate">{stock.name}</small>
             </div>
@@ -76,11 +76,11 @@ const StocksTable = () => {
                 autoFocus
               />
             </div>
-            <div className="col-2 text-right">
+            <div className="col-1 text-right">
               <NumberFormat
                 defaultValue={0}
                 value={stock.price}
-                prefix="R$ "
+                prefix=""
                 thousandSeparator="."
                 decimalSeparator=","
                 decimalScale={2}
@@ -93,7 +93,7 @@ const StocksTable = () => {
                 autoFocus
               />
             </div>
-            <div className="col-2 text-right">
+            <div className="col-1 text-right">
               <NumberFormat
                 defaultValue={0}
                 value={stock.volume}
@@ -122,7 +122,7 @@ const StocksTable = () => {
                 {stock.idealPercent.toFixed(1)}%
               </small>
             </div>
-            <div className="col-1 text-right">
+            <div className="col-2 text-right">
               {stock.idealVolume}
               <small
                 className={classNames([

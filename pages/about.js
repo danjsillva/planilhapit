@@ -6,6 +6,7 @@ const Privacy = () => {
       <div className="row my-5">
         <div className="col-8">
           <h1>Sobre</h1>
+          <hr></hr>
           <p>
             Ao utilizar o Planilha Pit você está ciente de que nenhuma
             informação deste domínio deve ser considerada uma recomendação.
@@ -23,7 +24,7 @@ const Privacy = () => {
             cada ativo. Além disso, também mostra a diferença entre a posição
             atual e a posição ideal.
           </p>
-          <h4>Motivos para usar o Planilha Pit</h4>
+          <h4 id="reasonstouse">Motivos para usar o Planilha Pit</h4>
           <ul>
             <li>
               É muito mais simples e intuitivo se comparado à outras planilhas.
@@ -42,7 +43,7 @@ const Privacy = () => {
               Isso mesmo, nada de cookies!
             </li>
           </ul>
-          <h4>Como usar o Planilha Pit</h4>
+          <h4 id="howtouse">Como usar o Planilha Pit</h4>
           <ol>
             <li>
               Comece pelo saldo! Mantenha o campo <b>Saldo</b> sempre atualizado
@@ -61,7 +62,7 @@ const Privacy = () => {
               processo para os demais ativos.
             </li>
           </ol>
-          <h4>Como contribuir com o Planilha Pit</h4>
+          <h4 id="howtocontribute">Como contribuir com o Planilha Pit</h4>
           <p>
             O projeto é Open Source! Os interessados em contribuir podem entrar
             em contato.
@@ -69,6 +70,17 @@ const Privacy = () => {
           <sup>1</sup> A funcionalidade de notas é genérica e deve funcionar
           para sistemas de 0 à 10 e também para sistemas de 0 à 100 (ou qualquer
           outro), o que importa é o valor de cada nota em relação às outras.
+        </div>
+        <div className="col-4 p-5">
+          <p>
+            <a href="#reasonstouse">Motivos para usar o Planilha Pit</a>
+          </p>
+          <p>
+            <a href="#howtouse">Como usar o Planilha Pit</a>
+          </p>
+          <p>
+            <a href="#howtocontribute">Como contribuir com o Planilha Pit</a>
+          </p>
         </div>
       </div>
     </div>

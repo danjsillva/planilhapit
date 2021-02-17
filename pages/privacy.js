@@ -7,6 +7,8 @@ const Privacy = () => {
         <div className="col-8">
           <h1>Privacy Policy for Planilha Pit</h1>
 
+          <hr></hr>
+
           <p>
             At Planilha Pit, accessible from https://planilhapit.vercel.app/,
             one of our main priorities is the privacy of our visitors. This
@@ -32,14 +34,14 @@ const Privacy = () => {
             .
           </p>
 
-          <h4>Consent</h4>
+          <h4 id="consent">Consent</h4>
 
           <p>
             By using our website, you hereby consent to our Privacy Policy and
             agree to its terms.
           </p>
 
-          <h4>Information we collect</h4>
+          <h4 id="informationwecollect">Information we collect</h4>
 
           <p>
             The personal information that you are asked to provide, and the
@@ -58,7 +60,7 @@ const Privacy = () => {
             email address, and telephone number.
           </p>
 
-          <h4>How we use your information</h4>
+          <h4 id="howweuseyourinformation">How we use your information</h4>
 
           <p>
             We use the information we collect in various ways, including to:
@@ -79,7 +81,7 @@ const Privacy = () => {
             <li>Find and prevent fraud</li>
           </ul>
 
-          <h4>Log Files</h4>
+          <h4 id="logfiles">Log Files</h4>
 
           <p>
             Planilha Pit follows a standard procedure of using log files. These
@@ -94,7 +96,9 @@ const Privacy = () => {
             demographic information.
           </p>
 
-          <h4>Google DoubleClick DART Cookie</h4>
+          <h4 id="googledoubleclickdartcookie">
+            Google DoubleClick DART Cookie
+          </h4>
 
           <p>
             Google is one of a third-party vendor on our site. It also uses
@@ -108,7 +112,9 @@ const Privacy = () => {
             </a>
           </p>
 
-          <h4>Advertising Partners Privacy Policies</h4>
+          <h4 id="advertisingpartnersprivacypolicies">
+            Advertising Partners Privacy Policies
+          </h4>
 
           <p>
             You may consult this list to find the Privacy Policy for each of the
@@ -131,7 +137,7 @@ const Privacy = () => {
             cookies that are used by third-party advertisers.
           </p>
 
-          <h4>Third Party Privacy Policies</h4>
+          <h4 id="thirdpartyprivacypolicies">Third Party Privacy Policies</h4>
 
           <p>
             Planilha Pit's Privacy Policy does not apply to other advertisers or
@@ -148,7 +154,9 @@ const Privacy = () => {
             respective websites.
           </p>
 
-          <h4>CCPA Privacy Rights (Do Not Sell My Personal Information)</h4>
+          <h4 id="ccapprivacyrights">
+            CCPA Privacy Rights (Do Not Sell My Personal Information)
+          </h4>
 
           <p>
             Under the CCPA, among other rights, California consumers have the
@@ -172,7 +180,7 @@ const Privacy = () => {
             would like to exercise any of these rights, please contact us.
           </p>
 
-          <h4>GDPR Data Protection Rights</h4>
+          <h4 id="gdprdataprotectionrights">GDPR Data Protection Rights</h4>
 
           <p>
             We would like to make sure you are fully aware of all of your data
@@ -211,7 +219,7 @@ const Privacy = () => {
             would like to exercise any of these rights, please contact us.
           </p>
 
-          <h4>Children's Information</h4>
+          <h4 id="childrensinformation">Children's Information</h4>
 
           <p>
             Another part of our priority is adding protection for children while
@@ -226,6 +234,48 @@ const Privacy = () => {
             strongly encourage you to contact us immediately and we will do our
             best efforts to promptly remove such information from our records.
           </p>
+        </div>
+        <div className="col-4 p-5">
+          <div className="position-fixed">
+            <p>
+              <a href="#consent">Consent</a>
+            </p>
+            <p>
+              <a href="#informationwecollect">Information we collect</a>
+            </p>
+            <p>
+              <a href="#howweuseyourinformation">How we use your information</a>
+            </p>
+            <p>
+              <a href="#logfiles">Log Files</a>
+            </p>
+            <p>
+              <a href="#googledoubleclickdartcookie">
+                Google DoubleClick DART Cookie
+              </a>
+            </p>
+            <p>
+              <a href="#advertisingpartnersprivacypolicies">
+                Advertising Partners Privacy Policies
+              </a>
+            </p>
+            <p>
+              <a href="#thirdpartyprivacypolicies">
+                Third Party Privacy Policies
+              </a>
+            </p>
+            <p>
+              <a href="#ccapprivacyrights">CCPA Privacy Rights</a>
+            </p>
+            <p>
+              <a href="#gdprdataprotectionrights">
+                GDPR Data Protection Rights
+              </a>
+            </p>
+            <p>
+              <a href="#childrensinformation">Children's Information</a>
+            </p>
+          </div>
         </div>
       </div>
     </div>
